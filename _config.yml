@@ -4,11 +4,11 @@
 name:               "discrete subgroup"
 description:        "London-ish Lattice Coding & Crypto Meetings"
 
-url:                "http://malb.github.io/discrete-subgroup"
+url:                "http://malb.io/"
 author:             "malb"
 
 # URL
-baseurl:            ""
+baseurl:            "/discrete-subgroup"
 permalink:          pretty
 
 # Markdown

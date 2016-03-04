@@ -33,6 +33,12 @@ sass:
 google_analytics: true
 tracking_id: "UA-74639670-1"
 
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
 # Scopes
 defaults:
   -

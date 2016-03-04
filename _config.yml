@@ -19,11 +19,17 @@ nav:
   - name:           "About"
     href:           "about"
 
-  - name:           "Lyon Lattice Meetings"
+  - name:           "Lyon"
     href:           "http://perso.ens-lyon.fr/damien.stehle/LATTICE_MEETINGS.html"
 
-  - name:           "Source"
+  - name:           "<i class='fa fa-github'></i>"
     href:           "https://github.com/malb/discrete-subgroup"
+
+  - name:           "<i class='fa fa-rss'></i>"
+    href:           "feed.xml"
+
+  - name:           "<i class='fa fa-twitter'></i>"
+    href:           "https://twitter.com/search?q=%23l2c2m1"
 
 # Sass
 sass:

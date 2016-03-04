@@ -5,11 +5,15 @@ redirect_from: /2016/05/04/
 
 Lattice-based approaches are emerging as a common theme in modern cryptography and coding theory. In communications, they are an indispensable mathematical tools to construct powerful error-correction codes achieving the capacity of wireless channels. In cryptography, they are used to build lattice-based schemes with provable security, better asymptotic efficiency, resilience against quantum attacks and new functionalities such as fully homomorphic encryption.
 
-This meeting — on *04 May 2016* — is aimed at connecting the two communities in the UK with a common interest in lattices, with a long-term goal of cross-fertilisation between the two fields. It will consist of several talks on related topics, with a format that will hopefully encourage interaction.
+This meeting — on *04 May 2016* — is aimed at connecting the two communities in the UK with a common interest in lattices, with a long-term goal of building a synergy of the two fields. It will consist of several talks on related topics, with a format that will hopefully encourage interaction.
 
-## Talks ##
+## Program ##
 
-### <span>10:30–12:00 | Cong Ling:</span> TBD ###
+We have four talks scheduled.
+
+### <span>11:00–12:30 | Cong Ling:</span> Achieving Channel Capacity with Lattice Codes ###
+
+> Lattice coding is a new paradigm of modern coding theory, giving rise to coding schemes achieving the Shannon capacity of Gaussian-noise channels. In wireless communications, lattices have become an indispensable tool to construct powerful error-correction codes over mobile fading channels, thanks to the connection to algebraic number theory. This talk presents an overview of the constructions of lattice codes for Gaussian, fading and MIMO (multi-input multi-output) channels, and introduces a novel framework to achieve the capacity of fading/MIMO channels with ideal lattices.
 
 ### <span>13:30–15:00 | Nigel Smart:</span> Post-Quantum Cryptography ###
 
@@ -25,11 +29,15 @@ This meeting — on *04 May 2016* — is aimed at connecting the two communities
 
 [paper](http://ia.cr/2016/127)
 
-## Location ##
+## Venue ##
 
-Imperial College
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2483.7481554015103!2d-0.1774244!3d51.4994889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31911b371c692e86!2sImperial+College!5e0!3m2!1sen!2suk!4v1457110930221" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-**ROOM**
+Room 611 (Dennis Gabor Seminar Room)  
+Department of Electrical and Electronic Engineering  
+[Imperial College London](http://www.imperial.ac.uk/visit/campuses/south-kensington/)  
+South Kensington  
+London SW7 2AZ  
 
 ## Registration ##
 

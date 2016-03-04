@@ -19,6 +19,12 @@ nav:
   - name:           "About"
     href:           "about"
 
+  - name:           "Lyon Lattice Meetings"
+    href:           "http://perso.ens-lyon.fr/damien.stehle/LATTICE_MEETINGS.html"
+
+  - name:           "Source"
+    href:           "https://github.com/malb/discrete-subgroup"
+
 # Sass
 sass:
   style:            :compressed

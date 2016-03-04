@@ -29,6 +29,12 @@ nav:
 sass:
   style:            :compressed
 
+# Analytics
+analytics :
+  provider : google
+  google :
+    tracking_id : "UA-74639670-1"
+
 # Scopes
 defaults:
   -
@@ -47,4 +53,3 @@ defaults:
 
 timezone:    Europe/London
 future:      true
-

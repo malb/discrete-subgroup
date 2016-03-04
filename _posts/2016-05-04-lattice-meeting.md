@@ -1,5 +1,5 @@
 ---
-title:  "Lattice Coding &amp; Crypto Meeting: 4 May"
+title:  "Lattice Coding &amp; Crypto Meeting"
 ---
 
 # Speakers #

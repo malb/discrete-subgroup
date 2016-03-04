@@ -1,0 +1,39 @@
+# BASED ON  http://kiko.gfjaru.com/  #
+
+# Basic
+name:               "discrete subgroup"
+description:        "London-ish Lattice Coding & Crypto Meetings"
+
+url:                "http://malb.github.io/discrete-subgroup"
+author:             "malb"
+
+# URL
+baseurl:            ""
+permalink:          pretty
+
+# Markdown
+markdown:           kramdown
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "about"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"

@@ -6,8 +6,18 @@ title:  "Lattice Coding &amp; Crypto Meeting: 4 May"
 
 ## Martin Albrecht ##
 
+~~~ python
+def foo()
+    return bar
+~~~
+        
+
 ## Alister Burr ##
 
+> This is a quote
+
 ## Cong Ling ##
+
+Let $x \in \mathbb{R}^n$ 
 
 ## Nigel Smart ##

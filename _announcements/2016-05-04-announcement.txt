@@ -1,0 +1,103 @@
+Dear all,
+
+Lattice-based approaches are emerging as a common theme in modern
+cryptography and coding theory. In communications, they are an
+indispensable mathematical tool to construct powerful error-correction
+codes achieving the capacity of wireless channels. In cryptography, they
+are used to build lattice-based schemes with provable security, better
+asymptotic efficiency, resilience against quantum attacks and new
+functionalities such as fully homomorphic encryption.
+
+We are setting up meetings on lattices in cryptography and coding in the
+London area.[^1] These meetings are inspired by similar meetings held in
+Lyon[^2] and are aimed at connecting the two communities in the UK with
+a common interest in lattices, with a long-term goal of building a
+synergy of the two fields.
+
+The meetings will consist of several talks on related topics, with a
+format that will hopefully encourage interaction (e.g. longer than usual
+time slots).
+
+# Tentative program #
+
+More details here as the become available:
+
+  http://malb.io/discrete-subgroup/2016/05/04/
+
+## Cong Ling: Achieving Channel Capacity with Lattice Codes ##
+
+11:00 – 12:30
+
+Abstract: Lattice coding is a new paradigm of modern coding theory,
+giving rise to coding schemes achieving the Shannon capacity of
+Gaussian-noise channels. In wireless communications, lattices have
+become an indispensable tool to construct powerful error-correction
+codes over mobile fading channels, thanks to the connection to algebraic
+number theory. This talk presents an overview of the constructions of
+lattice codes for Gaussian, fading and MIMO (multi-input multi-output)
+channels, and introduces a novel framework to achieve the capacity of
+fading/MIMO channels with ideal lattices.
+
+## Nigel Smart: Post-Quantum Cryptography ##
+
+13:30 – 15:00
+
+## Alister Burr: Title ##
+
+15:00 – 16:30
+
+## Martin Albrecht: A Subfield Lattice Attack on Overstretched NTRU Assumptions ##
+
+16:30 - 18:00
+
+Abstract: We present work which exploits the presence of a subfield to
+solve the NTRU problem for large moduli $q$: norming-down the public key
+$h$ to a subfield may lead to an easier lattice problem, and any
+sufficiently good solution may be lifted to a short vector in the full
+NTRU-lattice.
+
+We restrict ourselves to choices of dimensions $n(λ)$ and modulus $q(λ)$
+that were previously thought to offer resistance against attacks in time
+exponential in the security parameter $λ$. For any super-polynomial
+$q(λ)$, the subfield attack can be made sub-exponential in $λ$, or even
+polynomial as $q(λ)$ gets larger.
+
+The subfield lattice attack directly affects the asymptotic security of
+the bootstrappable homomorphic encryption schemes LTV and YASHE. It also
+makes GGH-like Multilinear Maps vulnerable to principal ideals attacks —
+therefore leading to a quantum break — and almost vulnerable to a
+statistical attack a-la Gentry-Szydlo. No *encodings of zero* nor
+*zero-testing parameter* are required.
+
+# Venue #
+
+Room 611 (Dennis Gabor Seminar Room)
+Department of Electrical and Electronic Engineering
+Imperial College London
+South Kensington 
+London SW7 2AZ
+
+## Directions ##
+
+http://www.imperial.ac.uk/visit/campuses/south-kensington/
+
+# Registration #
+
+Everyone is welcome. Two caveats:
+
+1. speakers are told the audience is somewhat familiar with lattices
+
+2. please send us an email at <c.ling@imperial.ac.uk>, so that the size
+   of the room fits with the number of participants.
+
+# Funding #
+
+**TBD**
+
+Best,
+Cong Ling and Martin Albrecht
+
+[^1]: Our definition of London includes Egham, where Royal Holloway’s
+    main campus is located.
+
+[^2]: http://perso.ens-lyon.fr/damien.stehle/LATTICE_MEETINGS.html

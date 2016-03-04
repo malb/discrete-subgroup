@@ -43,3 +43,8 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+
+
+timezone:    Europe/London
+future:      true
+

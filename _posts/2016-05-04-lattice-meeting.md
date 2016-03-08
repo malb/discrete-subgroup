@@ -5,7 +5,7 @@ redirect_from: /2016/05/04/
 
 Lattice-based approaches are emerging as a common theme in modern cryptography and coding theory. In communications, they are an indispensable mathematical tools to construct powerful error-correction codes achieving the capacity of wireless channels. In cryptography, they are used to build lattice-based schemes with provable security, better asymptotic efficiency, resilience against quantum attacks and new functionalities such as fully homomorphic encryption.
 
-This meeting — on *04 May 2016* — is aimed at connecting the two communities in the UK with a common interest in lattices, with a long-term goal of building a synergy of the two fields. It will consist of several talks on related topics, with a format that will hopefully encourage interaction.
+This meeting — on *4 May 2016* — is aimed at connecting the two communities in the UK with a common interest in lattices, with a long-term goal of building a synergy of the two fields. It will consist of several talks on related topics, with a format that will hopefully encourage interaction.
 
 ## Program ##
 

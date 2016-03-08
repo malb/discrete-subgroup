@@ -42,7 +42,7 @@ fading/MIMO channels with ideal lattices.
 
 13:30 – 15:00
 
-## Alister Burr: Title ##
+## Alister Burr: Lattice Coding with Applications to Compute-and-Forward ##
 
 15:00 – 16:30
 
@@ -89,10 +89,6 @@ Everyone is welcome. Two caveats:
 
 2. please send us an email at <c.ling@imperial.ac.uk>, so that the size
    of the room fits with the number of participants.
-
-# Funding #
-
-**TBD**
 
 Best,
 Cong Ling and Martin Albrecht

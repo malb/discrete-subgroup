@@ -17,7 +17,7 @@ We have four talks scheduled.
 
 ### <span>13:30–15:00 | Nigel Smart:</span> Post-Quantum Cryptography ###
 
-### <span>15:00–16:30 | Alister Burr:</span> TBD ###
+### <span>15:00–16:30 | Alister Burr:</span> Lattice Coding with Applications to Compute-and-Forward ###
 
 ### <span>16:30–18:00 | Martin Albrecht:</span> A Subfield Lattice Attack on Overstretched NTRU Assumptions ###
 
@@ -47,7 +47,3 @@ Everyone is welcome. Two caveats:
 
 2. please send us an email at <c.ling@imperial.ac.uk>, so that the size
    of the room fits with the number of participants.
-
-## Funding ##
-
-**TBD**

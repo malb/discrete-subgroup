@@ -17,7 +17,11 @@ We have four talks scheduled.
 
 ### <span>13:30–15:00 | Nigel Smart:</span> Post-Quantum Cryptography ###
 
+To appear…
+
 ### <span>15:00–16:30 | Alister Burr:</span> Lattice Coding with Applications to Compute-and-Forward ###
+
+To appear…
 
 ### <span>16:30–18:00 | Martin Albrecht:</span> A Subfield Lattice Attack on Overstretched NTRU Assumptions ###
 

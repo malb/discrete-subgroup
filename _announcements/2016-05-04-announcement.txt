@@ -6,7 +6,7 @@ Lattice-based approaches are emerging as a common theme in modern
 cryptography and coding theory. In communications, they are an
 indispensable mathematical tool to construct powerful error-correction
 codes achieving the capacity of wireless channels. In cryptography, they
-are used to build lattice-based schemes with provable security, better
+are used to building lattice-based schemes with provable security, better
 asymptotic efficiency, resilience against quantum attacks and new
 functionalities such as fully homomorphic encryption.
 
@@ -58,9 +58,9 @@ http://www.imperial.ac.uk/visit/campuses/south-kensington/
 
 Everyone is welcome. Two caveats:
 
-1. speakers are told the audience is somewhat familiar with lattices
+1. Speakers are told the audience is somewhat familiar with lattices.
 
-2. please send us an email at <c.ling@imperial.ac.uk>, so that the size
+2. Please send us an email at <c.ling@imperial.ac.uk>, so that the size
    of the room fits with the number of participants.
 
 Best,

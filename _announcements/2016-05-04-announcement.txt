@@ -26,50 +26,21 @@ More details here as the become available:
 
   http://malb.io/discrete-subgroup/2016/05/04/
 
-## Cong Ling: Achieving Channel Capacity with Lattice Codes ##
+## Achieving Channel Capacity with Lattice Codes ##
 
-11:00 – 12:30
+11:00 – 12:30: Cong Ling
 
-Abstract: Lattice coding is a new paradigm of modern coding theory,
-giving rise to coding schemes achieving the Shannon capacity of
-Gaussian-noise channels. In wireless communications, lattices have
-become an indispensable tool to construct powerful error-correction
-codes over mobile fading channels, thanks to the connection to algebraic
-number theory. This talk presents an overview of the constructions of
-lattice codes for Gaussian, fading and MIMO (multi-input multi-output)
-channels, and introduces a novel framework to achieve the capacity of
-fading/MIMO channels with ideal lattices.
+## Post-Quantum Cryptography ##
 
-## Nigel Smart: Post-Quantum Cryptography ##
+13:30 – 15:00: Nigel Smart
 
-13:30 – 15:00
+## Lattice Coding with Applications to Compute-and-Forward ##
 
-## Alister Burr: Lattice Coding with Applications to Compute-and-Forward ##
+15:00 – 16:30: Alister Burr
 
-15:00 – 16:30
+## A Subfield Lattice Attack on Overstretched NTRU Assumptions ##
 
-## Martin Albrecht: A Subfield Lattice Attack on Overstretched NTRU Assumptions ##
-
-16:30 - 18:00
-
-Abstract: We present work which exploits the presence of a subfield to
-solve the NTRU problem for large moduli $q$: norming-down the public key
-$h$ to a subfield may lead to an easier lattice problem, and any
-sufficiently good solution may be lifted to a short vector in the full
-NTRU-lattice.
-
-We restrict ourselves to choices of dimensions $n(λ)$ and modulus $q(λ)$
-that were previously thought to offer resistance against attacks in time
-exponential in the security parameter $λ$. For any super-polynomial
-$q(λ)$, the subfield attack can be made sub-exponential in $λ$, or even
-polynomial as $q(λ)$ gets larger.
-
-The subfield lattice attack directly affects the asymptotic security of
-the bootstrappable homomorphic encryption schemes LTV and YASHE. It also
-makes GGH-like Multilinear Maps vulnerable to principal ideals attacks —
-therefore leading to a quantum break — and almost vulnerable to a
-statistical attack a-la Gentry-Szydlo. No *encodings of zero* nor
-*zero-testing parameter* are required.
+16:30 - 18:00: Martin Albrecht
 
 # Venue #
 

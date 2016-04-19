@@ -15,9 +15,9 @@ We have four talks scheduled.
 
 > Lattice coding is a new paradigm of modern coding theory, giving rise to coding schemes achieving the Shannon capacity of Gaussian-noise channels. In wireless communications, lattices have become an indispensable tool to construct powerful error-correction codes over mobile fading channels, thanks to the connection to algebraic number theory. This talk presents an overview of the constructions of lattice codes for Gaussian, fading and MIMO (multi-input multi-output) channels, and introduces a novel framework to achieve the capacity of fading/MIMO channels with ideal lattices.
 
-### <span>13:30–15:00 | Nigel Smart:</span> Post-Quantum Cryptography ###
+### <span>13:30–15:00 | Nigel Smart:</span> Ring-LWE: An Efficient PQC Public Key Encryption Scheme ###
 
-To appear…
+> I will outline, starting from first principles how an efficient public key encryption scheme can be built which is post-quantum secure. In particular I will touch on implementation aspects, cryptographic security, as well as the underlying hard lattice problems.
 
 ### <span>15:00–16:30 | Alister Burr:</span> Lattice Coding with Applications to Compute-and-Forward ###
 

@@ -15,13 +15,17 @@ We have four talks scheduled.
 
 > Lattice coding is a new paradigm of modern coding theory, giving rise to coding schemes achieving the Shannon capacity of Gaussian-noise channels. In wireless communications, lattices have become an indispensable tool to construct powerful error-correction codes over mobile fading channels, thanks to the connection to algebraic number theory. This talk presents an overview of the constructions of lattice codes for Gaussian, fading and MIMO (multi-input multi-output) channels, and introduces a novel framework to achieve the capacity of fading/MIMO channels with ideal lattices.
 
+- [Achieving AWGN Channel Capacity With Lattice Gaussian Coding](http://arxiv.org/abs/1302.5906)
+- [Algebraic Lattice Codes Achieve the Capacity of the Compound Block-Fading Channel](http://arxiv.org/abs/1603.09263)
+
 ### <span>13:30–15:00 | Nigel Smart:</span> Ring-LWE: An Efficient PQC Public Key Encryption Scheme ###
 
 > I will outline, starting from first principles how an efficient public key encryption scheme can be built which is post-quantum secure. In particular I will touch on implementation aspects, cryptographic security, as well as the underlying hard lattice problems.
 
-### <span>15:00–16:30 | Alister Burr:</span> Lattice Coding with Applications to Compute-and-Forward ###
+### <span>15:00–16:30 | Alister Burr:</span> Lattice coding and its Applications in Communications ###
 
-To appear…
+
+> The talk will introduce Lattices and discuss their applications in wireless communications, starting with a brief introduction to the concept of lattices, and then some approaches to their construction, leading to the design of error-correcting codes based on lattices, including nested lattice codes. We will then discuss their application in multi-user, multihop wireless networks, and especially the concept of compute and forward.
 
 ### <span>16:30–18:00 | Martin Albrecht:</span> A Subfield Lattice Attack on Overstretched NTRU Assumptions ###
 
@@ -31,7 +35,7 @@ To appear…
 >
 > The subfield lattice attack directly affects the asymptotic security of the bootstrappable homomorphic encryption schemes LTV and YASHE. It also makes GGH-like Multilinear Maps vulnerable to principal ideals attacks — therefore leading to a quantum break — and almost vulnerable to a statistical attack a-la Gentry-Szydlo. No *encodings of zero* nor *zero-testing parameter* are required.
 
-[paper](http://ia.cr/2016/127)
+- [A subfield lattice attack on overstretched NTRU assumptions: Cryptanalysis of some FHE and Graded Encoding Schemes](http://ia.cr/2016/127)
 
 ## Venue ##
 

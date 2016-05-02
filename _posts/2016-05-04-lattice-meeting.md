@@ -7,25 +7,27 @@ Lattice-based approaches are emerging as a common theme in modern cryptography a
 
 This meeting — on *4 May 2016* — is aimed at connecting the two communities in the UK with a common interest in lattices, with a long-term goal of building a synergy of the two fields. It will consist of several talks on related topics, with a format that will hopefully encourage interaction.
 
+This event is also meant to celebrate the Centenary of Claude Shannon, who made profound contributions to information theory and cryptography.
+
 ## Program ##
 
 We have four talks scheduled.
 
-### <span>11:00–12:30 | Cong Ling:</span> Achieving Channel Capacity with Lattice Codes ###
 
-> Lattice coding is a new paradigm of modern coding theory, giving rise to coding schemes achieving the Shannon capacity of Gaussian-noise channels. In wireless communications, lattices have become an indispensable tool to construct powerful error-correction codes over mobile fading channels, thanks to the connection to algebraic number theory. This talk presents an overview of the constructions of lattice codes for Gaussian, fading and MIMO (multi-input multi-output) channels, and introduces a novel framework to achieve the capacity of fading/MIMO channels with ideal lattices.
+### <span>11:00–12:30 | Alister Burr:</span> Lattice coding and its Applications in Communications ###
 
-- [Achieving AWGN Channel Capacity With Lattice Gaussian Coding](http://arxiv.org/abs/1302.5906)
-- [Algebraic Lattice Codes Achieve the Capacity of the Compound Block-Fading Channel](http://arxiv.org/abs/1603.09263)
+> The talk will introduce Lattices and discuss their applications in wireless communications, starting with a brief introduction to the concept of lattices, and then some approaches to their construction, leading to the design of error-correcting codes based on lattices, including nested lattice codes. We will then discuss their application in multi-user, multihop wireless networks, and especially the concept of compute and forward.
 
 ### <span>13:30–15:00 | Nigel Smart:</span> Ring-LWE: An Efficient PQC Public Key Encryption Scheme ###
 
 > I will outline, starting from first principles how an efficient public key encryption scheme can be built which is post-quantum secure. In particular I will touch on implementation aspects, cryptographic security, as well as the underlying hard lattice problems.
 
-### <span>15:00–16:30 | Alister Burr:</span> Lattice coding and its Applications in Communications ###
+### <span>15:00–16:30 | Cong Ling:</span> Achieving Channel Capacity with Lattice Codes ###
 
+> Lattice coding is a new paradigm of modern coding theory, giving rise to coding schemes achieving the Shannon capacity of Gaussian-noise channels. In wireless communications, lattices have become an indispensable tool to construct powerful error-correction codes over mobile fading channels, thanks to the connection to algebraic number theory. This talk presents an overview of the constructions of lattice codes for Gaussian, fading and MIMO (multi-input multi-output) channels, and introduces a novel framework to achieve the capacity of fading/MIMO channels with ideal lattices.
 
-> The talk will introduce Lattices and discuss their applications in wireless communications, starting with a brief introduction to the concept of lattices, and then some approaches to their construction, leading to the design of error-correcting codes based on lattices, including nested lattice codes. We will then discuss their application in multi-user, multihop wireless networks, and especially the concept of compute and forward.
+- [Achieving AWGN Channel Capacity With Lattice Gaussian Coding](http://arxiv.org/abs/1302.5906)
+- [Algebraic Lattice Codes Achieve the Capacity of the Compound Block-Fading Channel](http://arxiv.org/abs/1603.09263)
 
 ### <span>16:30–18:00 | Martin Albrecht:</span> A Subfield Lattice Attack on Overstretched NTRU Assumptions ###
 

@@ -22,14 +22,14 @@ We have four talks scheduled.
 
 > I will outline, starting from first principles how an efficient public key encryption scheme can be built which is post-quantum secure. In particular I will touch on implementation aspects, cryptographic security, as well as the underlying hard lattice problems.
 
-### <span>15:00–16:30 | Cong Ling:</span> Achieving Channel Capacity with Lattice Codes ###
+### <span>15:00–16:30 | Cong Ling:</span> [Achieving Channel Capacity with Lattice Codes](/discrete-subgroup/slides/2016-05-04-ling.pdf) ###
 
 > Lattice coding is a new paradigm of modern coding theory, giving rise to coding schemes achieving the Shannon capacity of Gaussian-noise channels. In wireless communications, lattices have become an indispensable tool to construct powerful error-correction codes over mobile fading channels, thanks to the connection to algebraic number theory. This talk presents an overview of the constructions of lattice codes for Gaussian, fading and MIMO (multi-input multi-output) channels, and introduces a novel framework to achieve the capacity of fading/MIMO channels with ideal lattices.
 
 - [Achieving AWGN Channel Capacity With Lattice Gaussian Coding](http://arxiv.org/abs/1302.5906)
 - [Algebraic Lattice Codes Achieve the Capacity of the Compound Block-Fading Channel](http://arxiv.org/abs/1603.09263)
 
-### <span>16:30–18:00 | Martin Albrecht:</span> A Subfield Lattice Attack on Overstretched NTRU Assumptions ###
+### <span>16:30–18:00 | Martin Albrecht:</span> [A Subfield Lattice Attack on Overstretched NTRU Assumptions](/discrete-subgroup/slides/2016-05-04-albrecht.pdf) ###
 
 > We present work which exploits the presence of a subfield to solve the NTRU problem for large moduli $q$: norming-down the public key $h$ to a subfield may lead to an easier lattice problem, and any sufficiently good solution may be lifted to a short vector in the full NTRU-lattice.
 >

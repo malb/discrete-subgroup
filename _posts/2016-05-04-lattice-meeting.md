@@ -14,11 +14,11 @@ This event is also meant to celebrate the Centenary of Claude Shannon, who made 
 We have four talks scheduled.
 
 
-### <span>11:00–12:30 | Alister Burr:</span> Lattice coding and its Applications in Communications ###
+### <span>11:00–12:30 | Alister Burr:</span> [Lattice Coding and its Applications in Communications](/discrete-subgroup/slides/2016-05-04-burr.pdf) ###
 
 > The talk will introduce Lattices and discuss their applications in wireless communications, starting with a brief introduction to the concept of lattices, and then some approaches to their construction, leading to the design of error-correcting codes based on lattices, including nested lattice codes. We will then discuss their application in multi-user, multihop wireless networks, and especially the concept of compute and forward.
 
-### <span>13:30–15:00 | Nigel Smart:</span> Ring-LWE: An Efficient PQC Public Key Encryption Scheme ###
+### <span>13:30–15:00 | Nigel Smart:</span> [Ring-LWE: An Efficient PQC Public Key Encryption Scheme](/discrete-subgroup/slides/2016-05-04-smart.pdf) ###
 
 > I will outline, starting from first principles how an efficient public key encryption scheme can be built which is post-quantum secure. In particular I will touch on implementation aspects, cryptographic security, as well as the underlying hard lattice problems.
 

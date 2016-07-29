@@ -10,3 +10,5 @@ These meetings are inspired by [similar meetings](http://perso.ens-lyon.fr/damie
 ## Organisers & Contact
 
 The London-ish Lattice Coding & Crypto meetings are organised by [Martin Albrecht](http://malb.io) and [Cong Ling](http://www.commsp.ee.ic.ac.uk/~cling/). If you have any queries, please get in touch with either or both organisers.
+
+There is also an [announcement mailing list](https://groups.google.com/forum/#!forum/london-ish-lattice-coding-crypto).

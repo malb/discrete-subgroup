@@ -31,6 +31,9 @@ nav:
   - name:           "<i class='fa fa-twitter'></i>"
     href:           "https://twitter.com/search?q=%23l2c2m1"
 
+  - name:           "<i class="fa fa-envelope" aria-hidden="true"></i>"
+    href:           "https://groups.google.com/forum/#!forum/london-ish-lattice-coding-crypto"
+
 # Sass
 sass:
   style:            :compressed

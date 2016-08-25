@@ -11,17 +11,13 @@ This meeting — on *21 September 2016* — is aimed at connecting the two commu
 
 We have four talks scheduled.
 
-### <span>10:30–12:00 | [Jean-Claude Belfiore](http://perso.telecom-paristech.fr/~belfiore/):</span>  TDB###
+### <span>10:30–12:00 | [Jean-Claude Belfiore](http://perso.telecom-paristech.fr/~belfiore/):</span> Ideal Lattices: Connections between number fields and coding constructions###
 
-### <span>13:00–14:30 | [Daniel Dadush](http://homepages.cwi.nl/~dadush/):</span> Solving SVP and CVP in 2<sup>n</sup> Time via Discrete Gaussian Sampling ###
+In this talk, we first remind some basics of ideal lattice constructions using both totally real fields and CM-fields. Then, we propose new constructions of famous ideal lattices guided by the regular construction of the underlying lattice. Some examples are given where we obtain ideal lattice constructions for the densest lattices in dimension 8, 12, 24 or 32. We also show that there are infinitely many ideal lattices equivalent to the Leech lattice. Finally, some applications of ideal lattices to the area of wireless communications will be given.
 
-We show $2^{n+o(n)}$-time algorithms for the Shortest Vector Problem and the Closest Vector Problem on n-dimensional lattices (improving on the previous best-known algorithm of Micciancio and Voulgaris, which runs in time $4^{n+o(n)}$). The algorithms use the elementary yet powerful observation that, by properly combining samples from a Gaussian distribution over the lattice, we can produce exact samples from a narrower Gaussian distribution on the lattice. We use such a procedure repeatedly to obtain samples from an arbitrarily narrow Gaussian distribution over the lattice, allowing us to find a shortest (and closest) vector.
+### <span>13:00–14:30 | Dan Shepherd:</span> TBD ###
 
-The SVP algorithm and its analysis are quite simple in hindsight. The main technical tool is an identity on Gaussian measures with a simple geometric proof originally due to Riemann. We will also discuss some of the subtleties that come up in adapting it to the Closest Vector Problem (a seemingly harder problem).
-
-Based on joint work with Divesh Aggarwal, Oded Regev and Noah Stephens-Davidowitz. (See [http://arxiv.org/abs/1412.7994](http://arxiv.org/abs/1412.7994) and [http://arxiv.org/abs/1504.01995](http://arxiv.org/abs/1504.01995).)
-
-### <span>15:00–16:30 | [Antonio Campello](http://www.ime.unicamp.br/~campello/):</span> Sampling Algorithms for Lattice Gaussian Codes ###
+### <span>15:00–16:00 | [Antonio Campello](http://www.ime.unicamp.br/~campello/):</span> Sampling Algorithms for Lattice Gaussian Codes ###
 
 Lattice Gaussian distributions are useful tools for constructing efficient cryptographic primitives and capacity-achieving schemes for a number of wireless systems. A worth element towards practical implementations of these schemes is the ability of sampling from such distributions, whose support is an n-dimensional lattice in the Euclidean space.
 
@@ -29,7 +25,19 @@ In this talk, we will present fast specialized algorithms for sampling over latt
 
 Based on joint work with J.-C. Belfiore (Huawei Technologies France)
 
-### <span>17:00–18:30 | Dan Shepherd:</span> TBD ###
+### <span>16:00–16:30 | [Cong Ling](http://www.commsp.ee.ic.ac.uk/~cling/):</span>  Lattice Gaussian Sampling with Markov Chain Monte Carlo (MCMC)###
+
+Sampling from a lattice Gaussian distribution is emerging as a common theme in various areas such as coding and cryptography. The default sampling algorithm—Klein’s algorithm yields a distribution close to the lattice Gaussian only if the standard deviation is sufficiently large. This talk is concerned with a new method based on Markov chain Monte Carlo (MCMC) for lattice Gaussian sampling, which converges to the target lattice Gaussian distribution for any value of the standard deviation. A number of algorithms will be presented, such as Gibbs and Metropolis-Hastings. A problem of central importance is to determine the mixing time. It is proven that some of these Markov chains are geometrically ergodic, namely, the sampling algorithms converge to the stationary distribution exponentially fast.
+
+Based on joint work with Zheng Wang and Guillaume Hanrot. (See [http://arxiv.org/abs/1501.05757](http://arxiv.org/abs/1501.05757) and [http://arxiv.org/abs/1405.1623](http://arxiv.org/abs/1405.1623).)
+
+### <span>17:00–18:30 | [Daniel Dadush](http://homepages.cwi.nl/~dadush/):</span> Solving SVP and CVP in 2<sup>n</sup> Time via Discrete Gaussian Sampling ###
+
+We show $2^{n+o(n)}$-time algorithms for the Shortest Vector Problem and the Closest Vector Problem on n-dimensional lattices (improving on the previous best-known algorithm of Micciancio and Voulgaris, which runs in time $4^{n+o(n)}$). The algorithms use the elementary yet powerful observation that, by properly combining samples from a Gaussian distribution over the lattice, we can produce exact samples from a narrower Gaussian distribution on the lattice. We use such a procedure repeatedly to obtain samples from an arbitrarily narrow Gaussian distribution over the lattice, allowing us to find a shortest (and closest) vector.
+
+The SVP algorithm and its analysis are quite simple in hindsight. The main technical tool is an identity on Gaussian measures with a simple geometric proof originally due to Riemann. We will also discuss some of the subtleties that come up in adapting it to the Closest Vector Problem (a seemingly harder problem).
+
+Based on joint work with Divesh Aggarwal, Oded Regev and Noah Stephens-Davidowitz. (See [http://arxiv.org/abs/1412.7994](http://arxiv.org/abs/1412.7994) and [http://arxiv.org/abs/1504.01995](http://arxiv.org/abs/1504.01995).)
 
 ## Venue ##
 

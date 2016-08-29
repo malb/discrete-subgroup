@@ -9,7 +9,7 @@ This meeting — on *21 September 2016* — is aimed at connecting the two commu
 
 ## Program ##
 
-We have four talks scheduled.
+We have five talks scheduled.
 
 ### <span>11:00–12:30 | [Jean-Claude Belfiore](http://perso.telecom-paristech.fr/~belfiore/):</span> Ideal Lattices: Connections between number fields and coding constructions###
 

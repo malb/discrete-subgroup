@@ -35,7 +35,7 @@ Sampling from a lattice Gaussian distribution is emerging as a common theme in v
 
 Based on joint work with Zheng Wang and Guillaume Hanrot. (See [http://arxiv.org/abs/1501.05757](http://arxiv.org/abs/1501.05757) and [http://arxiv.org/abs/1405.1623](http://arxiv.org/abs/1405.1623).)
 
-### <span>17:00–18:30 | [Daniel Dadush](http://homepages.cwi.nl/~dadush/):</span> Solving SVP and CVP in 2<sup>n</sup> Time via Discrete Gaussian Sampling ###
+### <span>17:00–18:30 | [Daniel Dadush](http://homepages.cwi.nl/~dadush/):</span> [Solving SVP and CVP in 2<sup>n</sup> Time via Discrete Gaussian Sampling](/discrete-subgroup/slides/2016-09-21-dadush.pdf) ###
 
 We show $2^{n+o(n)}$-time algorithms for the Shortest Vector Problem and the Closest Vector Problem on n-dimensional lattices (improving on the previous best-known algorithm of Micciancio and Voulgaris, which runs in time $4^{n+o(n)}$). The algorithms use the elementary yet powerful observation that, by properly combining samples from a Gaussian distribution over the lattice, we can produce exact samples from a narrower Gaussian distribution on the lattice. We use such a procedure repeatedly to obtain samples from an arbitrarily narrow Gaussian distribution over the lattice, allowing us to find a shortest (and closest) vector.
 

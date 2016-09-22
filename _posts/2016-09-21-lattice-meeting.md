@@ -15,7 +15,7 @@ We have five talks scheduled.
 
 In this talk, we first remind some basics of ideal lattice constructions using both totally real fields and CM-fields. Then, we propose new constructions of famous ideal lattices guided by the regular construction of the underlying lattice. Some examples are given where we obtain ideal lattice constructions for the densest lattices in dimension 8, 12, 24 or 32. We also show that there are infinitely many ideal lattices equivalent to the Leech lattice. Finally, some applications of ideal lattices to the area of wireless communications will be given.
 
-### <span>13:30–15:00 | Dan Shepherd:</span> Rings and Modules for Identity-Based Post-Quantum Public-Key Cryptography ###
+### <span>13:30–15:00 | Dan Shepherd:</span> [Rings and Modules for Identity-Based Post-Quantum Public-Key Cryptography](/discrete-subgroup/slides/2016-09-21-shepherd.pdf) ###
 
 Every Public-Key cryptography primitive requires a trapdoor property, so that some activity that is easy for the private key holder(s) is impossible for anyone else. There are several different areas of mathematics that give rise to structures that would seem to be suitable for trapdoors, even in the presence of quantum cryptanalysis, each with its own advantages and disadvantages. The most flexible such area is presently “Ideal-Lattice-Based Crypto”, where schemes for “high-function cryptography”—such as Identity-Based PKC, Secure Multiparty Computation, or Homomorphic Encryption—can also be defined.
 

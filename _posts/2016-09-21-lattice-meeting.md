@@ -29,7 +29,7 @@ In this talk, we will present fast specialized algorithms for sampling over latt
 
 Based on joint work with J.-C. Belfiore (Huawei Technologies France)
 
-### <span>16:30–17:00 | [Cong Ling](http://www.commsp.ee.ic.ac.uk/~cling/):</span>  Lattice Gaussian Sampling with Markov Chain Monte Carlo (MCMC)###
+### <span>16:30–17:00 | [Cong Ling](http://www.commsp.ee.ic.ac.uk/~cling/):</span>  [Lattice Gaussian Sampling with Markov Chain Monte Carlo (MCMC)](/discrete-subgroup/slides/2016-09-21-ling.pdf)###
 
 Sampling from a lattice Gaussian distribution is emerging as a common theme in various areas such as coding and cryptography. The default sampling algorithm—Klein’s algorithm yields a distribution close to the lattice Gaussian only if the standard deviation is sufficiently large. This talk is concerned with a new method based on Markov chain Monte Carlo (MCMC) for lattice Gaussian sampling, which converges to the target lattice Gaussian distribution for any value of the standard deviation. A number of algorithms will be presented, such as Gibbs and Metropolis-Hastings. A problem of central importance is to determine the mixing time. It is proven that some of these Markov chains are geometrically ergodic, namely, the sampling algorithms converge to the stationary distribution exponentially fast.
 

@@ -21,7 +21,7 @@ Every Public-Key cryptography primitive requires a trapdoor property, so that so
 
 In this talk, I will review a 2014 [paper](http://ia.cr/2014/794) of Ducas, Lyubashevsky, and Prest for reasonably efficient IDPKC, describing the trapdoors and the assumptions required for their security. I’ll suggest various possible generalisations that may potentially make the primitives easier to work with or affect the security assessment, and will actively solicit ideas from the audience on how to perform computations as fast as possible.
 
-### <span>15:30–16:30 | [Antonio Campello](http://www.ime.unicamp.br/~campello/):</span> Sampling Algorithms for Lattice Gaussian Codes ###
+### <span>15:30–16:30 | [Antonio Campello](http://www.ime.unicamp.br/~campello/):</span> [Sampling Algorithms for Lattice Gaussian Codes](/discrete-subgroup/slides/2016-09-21-campello.pdf) ###
 
 Lattice Gaussian distributions are useful tools for constructing efficient cryptographic primitives and capacity-achieving schemes for a number of wireless systems. A worth element towards practical implementations of these schemes is the ability of sampling from such distributions, whose support is an n-dimensional lattice in the Euclidean space.
 

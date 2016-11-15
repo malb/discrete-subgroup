@@ -9,9 +9,9 @@ This meeting — on *18 January 2017* — is aimed at connecting the two communi
 
 ## Program ##
 
-### <span>[Wouter Castryck](http://math.univ-lille1.fr/~castryck/):</span> TBC###
+### <span>[Wouter Castryck](http://math.univ-lille1.fr/~castryck/):</span> Provably Weak Instances of Ring-LWE Revisited###
 
-### <span>TBC:</span> TBC ###
+### <span>[Ana Costache](http://www.bris.ac.uk/engineering/people/ana-costache/index.html):</span> Fixed Point Arithmetic in SHE Scheme ###
 
 ### <span>TBC:</span> TBC ###
 

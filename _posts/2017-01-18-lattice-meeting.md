@@ -9,7 +9,9 @@ This meeting — on *18 January 2017* — is aimed at connecting the two communi
 
 ## Program ##
 
-### <span>[Wouter Castryck](http://math.univ-lille1.fr/~castryck/):</span> Provably Weak Instances of Ring-LWE Revisited###
+### <span>[Wouter Castryck](http://math.univ-lille1.fr/~castryck/):</span> Remarks on the error distributions in ring-based LWE###
+
+The existing literature contains several ring-based variants of the Learning With Errors problem, all of which are often referred to as Ring-LWE, a habit which has led to some confusion in the recent past. The main difference lies in the choice of the probability distribution from which the errors are to be sampled. We will briefly compare the main versions, such as Poly-LWE and "proper" Ring-LWE as introduced by Lyubashevsky et al., and discuss some pitfalls that arise when mixing things up. This is joint work with Ilia Iliashenko and Frederik Vercauteren.
 
 ### <span>[Ana Costache](http://www.bris.ac.uk/engineering/people/ana-costache/index.html):</span> Fixed Point Arithmetic in SHE Scheme ###
 

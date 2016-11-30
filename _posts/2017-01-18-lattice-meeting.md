@@ -15,9 +15,9 @@ The existing literature contains several ring-based variants of the Learning Wit
 
 ### <span>[Ana Costache](http://www.bris.ac.uk/engineering/people/ana-costache/index.html):</span> Fixed Point Arithmetic in SHE Scheme ###
 
-### <span>TBC:</span> TBC ###
+### <span>[Victor Beresnevich](http://maths.york.ac.uk/www/vb8):</span> TBC ###
 
-### <span>TBC:</span> TBC ###
+### <span>[Anne-Maria Ernvall-Hytönen](http://www.helsinki.fi/~ernvall/):</span> TBC ###
 
 ## Venue ##
 

@@ -15,6 +15,15 @@ The existing literature contains several ring-based variants of the Learning Wit
 
 ### <span>[Ana Costache](http://www.bris.ac.uk/engineering/people/ana-costache/index.html):</span> Fixed Point Arithmetic in SHE Scheme ###
 
+We begin by introducing the context of ring-based somewhat homomorphic schemes and discuss some
+optimisations. This starts with introducing the RLWR hard problem and its relation to lattices. We
+investigate fixed-point arithmetic in ring-based homomorphic encryption schemes. Downlin et al.
+present two fixed-point numbers representations; we analyse and show them to be isomorphic, by
+presenting an explicit isomorphism between the two. Given input bounds on fixed-point numbers and
+scalars, we achieve lower bounds for the ring dimensions needed to support complex homomorphic
+operations. As an application, we investigate homomorphic image processing and, specifically,
+Fourier Transforms.
+
 ### <span>[Victor Beresnevich](http://maths.york.ac.uk/www/vb8):</span> TBC ###
 
 ### <span>[Anne-Maria Ernvall-Hytönen](http://www.helsinki.fi/~ernvall/):</span> TBC ###

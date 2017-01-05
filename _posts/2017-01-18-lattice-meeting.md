@@ -31,7 +31,9 @@ Fourier Transforms.
 
 ### <span>[Victor Beresnevich](http://maths.york.ac.uk/www/vb8):</span> TBC ###
 
-### <span>[Anne-Maria Ernvall-Hytönen](http://www.helsinki.fi/~ernvall/):</span> TBC ###
+### <span>[Anne-Maria Ernvall-Hytönen](http://www.helsinki.fi/~ernvall/):</span> Secrecy Function and Comparing Lattices ###
+
+In this talk, I will first explain how theta functions of lattices appear in analysing which lattices are good for coset coding in wiretap channels. I will then explain what ia the secrecy gain of a lattice, and what is the conjecture of Belfiore and Sole for unimodular lattices, and how it has been generalised for l-modular lattices. I will then explain how this conjecture can be approached for both in the unimodular case, and for various values of l. Finally, I will explain about the problems in using secrecy gains in comparing lattices.
 
 ## Venue ##
 

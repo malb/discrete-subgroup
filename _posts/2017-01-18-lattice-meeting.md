@@ -15,7 +15,9 @@ The existing literature contains several ring-based variants of the Learning Wit
 
 - [On Error Distributions in Ring-based LWE](https://eprint.iacr.org/2016/240)
 
-### <span>13:30–15:00 | [Victor Beresnevich](http://maths.york.ac.uk/www/vb8):</span> TBC ###
+### <span>13:30–15:00 | [Victor Beresnevich](http://maths.york.ac.uk/www/vb8):</span> Randomness and determinism in Diophantine approximation: small linear forms, lattice flows and some applications ###
+
+The main goal of this talk is to discuss a variety of concepts and facts in the theory of Diophantine approximation. To motivate this discussion I will begin by exposing some (unexpected to myself) examples of the use of Diophantine approximation in a relatively recent development on interference alignment. I will discuss its link to Diophantine approximation on manifolds, a fast developing and relatively modern area of metric (probabilistic) number theory. More broadly, I will present an account of classical metric and non-metric results and techniques. Finally, I will describe a technique originating from a paper by Kleinbock and Marguis (1998) on estimating the probability that a lattice picked at random and subject to functional constraints has a small non-zero point.
 
 ### <span>15:30–16:30 | [Ana Costache](http://www.bris.ac.uk/engineering/people/ana-costache/index.html):</span> Fixed Point Arithmetic in SHE Scheme ###
 

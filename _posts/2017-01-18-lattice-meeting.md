@@ -9,22 +9,22 @@ This meeting — on *18 January 2017* — is aimed at connecting the two communi
 
 ## Program ##
 
-### <span>[Wouter Castryck](http://math.univ-lille1.fr/~castryck/):</span> Remarks on the error distributions in ring-based LWE###
+### <span>11:00–12:30 [Wouter Castryck](http://math.univ-lille1.fr/~castryck/):</span> Remarks on the error distributions in ring-based LWE###
 
 The existing literature contains several ring-based variants of the Learning With Errors problem, all of which are often referred to as Ring-LWE, a habit which has led to some confusion in the recent past. The main difference lies in the choice of the probability distribution from which the errors are to be sampled. We will briefly compare the main versions, such as Poly-LWE and “proper” Ring-LWE as introduced by Lyubashevsky et al., and discuss some pitfalls that arise when mixing things up. This is joint work with Ilia Iliashenko and Frederik Vercauteren.
 
 - [On Error Distributions in Ring-based LWE](https://eprint.iacr.org/2016/240)
 
-### <span>[Ana Costache](http://www.bris.ac.uk/engineering/people/ana-costache/index.html):</span> Fixed Point Arithmetic in SHE Scheme ###
+### <span>13:30–15:00 | [Victor Beresnevich](http://maths.york.ac.uk/www/vb8):</span> TBC ###
+
+### <span>15:30–16:30 | [Ana Costache](http://www.bris.ac.uk/engineering/people/ana-costache/index.html):</span> Fixed Point Arithmetic in SHE Scheme ###
 
 We begin by introducing the context of ring-based somewhat homomorphic schemes and discuss some optimisations. This starts with introducing the RLWR hard problem and its relation to lattices. We investigate fixed-point arithmetic in ring-based homomorphic encryption schemes. Downlin et al. present two fixed-point numbers representations; we analyse and show them to be isomorphic, by presenting an explicit isomorphism between the two. Given input bounds on fixed-point numbers and scalars, we achieve lower bounds for the ring dimensions needed to support complex homomorphic operations. As an application, we investigate homomorphic image processing and, specifically, Fourier Transforms.
 
 - [Manual for Using Homomorphic Encryption for Bioinformatics](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/11/ManualHE.pdf)
 - [Fixed-Point Arithmetic in SHE Schemes](https://eprint.iacr.org/2016/250.pdf)
 
-### <span>[Victor Beresnevich](http://maths.york.ac.uk/www/vb8):</span> TBC ###
-
-### <span>[Anne-Maria Ernvall-Hytönen](http://www.helsinki.fi/~ernvall/):</span> Secrecy Function and Comparing Lattices ###
+### <span>17:00-18:30 [Anne-Maria Ernvall-Hytönen](http://www.helsinki.fi/~ernvall/):</span> Secrecy Function and Comparing Lattices ###
 
 In this talk, I will first explain how theta functions of lattices appear in analysing which lattices are good for coset coding in wiretap channels. I will then explain what ia the secrecy gain of a lattice, and what is the conjecture of Belfiore and Sole for unimodular lattices, and how it has been generalised for l-modular lattices. I will then explain how this conjecture can be approached for both in the unimodular case, and for various values of l. Finally, I will explain about the problems in using secrecy gains in comparing lattices.
 

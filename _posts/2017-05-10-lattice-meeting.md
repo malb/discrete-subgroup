@@ -9,13 +9,15 @@ This meeting — on *10 May 2017* — is aimed at connecting the two communities
 
 ## Program ##
 
-### <span>[Alexander May](http://www.cits.rub.de/personen/may.html):</span> TBC###
+### <span>10:30 - 12:00 | [Robert Fischer](https://www.uni-ulm.de/in/nt/staff/professors/fischer/):</span> Lattice Reduction and Factorization for Equalization###
 
-### <span>[Thomas Johansson](http://portal.research.lu.se/portal/en/persons/thomas-johansson(f6c92fc5-826c-4c22-9c01-d9c9e2c9febd).html):</span> TBC###
+### <span>13:00 - 14:30 | [Alexander May](http://www.cits.rub.de/personen/may.html):</span> Recent Advances in Decoding Random Binary Linear Codes – and Their Implications to Crypto###
 
-### <span>[Robert Fischer](https://www.uni-ulm.de/in/nt/staff/professors/fischer/):</span> Lattice Reduction and Factorization for Equalization###
+This survey talk gives an overview of algorithms for decoding random linear codes. We start with Pranges information set decoding and Stern's meet-in-the-middle technique, and building on these algorithms we explain recent advances by May, Meurer, Thomae (Asiacrypt 2011), Becker, Joux, May, Meurer (Eurocrypt 2012) and May, Ozerov (Eurocrypt 2015) that led to significant improvements in the run time exponent. Moreover, we discuss implications for choosing cryptographic keys in code-based cryptography, also in the quantum setting.
 
-### <span>[Joseph Jean Boutros](http://www.josephboutros.org/):</span> TBC###
+### <span>15:00 - 16:30 | [Joseph Jean Boutros](http://www.josephboutros.org/):</span> TBC###
+
+### <span>16:45 - 18:15 | [Thomas Johansson](http://portal.research.lu.se/portal/en/persons/thomas-johansson(f6c92fc5-826c-4c22-9c01-d9c9e2c9febd).html):</span> TBC###
 
 ## Venue ##
 

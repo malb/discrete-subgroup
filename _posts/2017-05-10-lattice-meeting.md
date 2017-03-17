@@ -11,6 +11,11 @@ This meeting — on *10 May 2017* — is aimed at connecting the two communities
 
 ### <span>10:30 - 12:00 | [Robert Fischer](https://www.uni-ulm.de/in/nt/staff/professors/fischer/):</span> Lattice Reduction and Factorization for Equalization###
 
+In digital communications, signal constellations are usually drawn from a regular grid. Consequently, the mathematical tool of lattices is of great interest. Since more than one decade, equalization schemes based on the principle of lattice reduction, i.e., the selection of a suited basis, in which the equalization is carried out, are known to achieve the optimum diversity order with very low complexity. Recently, in the field of relaying, integer-forcing schemes have been proposed. Both approaches are tightly related to each other.
+
+In the talk, an introduction to the concepts of lattice-reduction-aided and integer-forcing equalization is given. The respective mathematical background is studied and an overview on the different criteria and algorithms for solving the respective factorization problem is given.
+
+
 ### <span>13:00 - 14:30 | [Alexander May](http://www.cits.rub.de/personen/may.html):</span> Recent Advances in Decoding Random Binary Linear Codes – and Their Implications to Crypto###
 
 This survey talk gives an overview of algorithms for decoding random linear codes. We start with Pranges information set decoding and Stern's meet-in-the-middle technique, and building on these algorithms we explain recent advances by May, Meurer, Thomae (Asiacrypt 2011), Becker, Joux, May, Meurer (Eurocrypt 2012) and May, Ozerov (Eurocrypt 2015) that led to significant improvements in the run time exponent. Moreover, we discuss implications for choosing cryptographic keys in code-based cryptography, also in the quantum setting.

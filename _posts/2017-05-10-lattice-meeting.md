@@ -22,7 +22,7 @@ This survey talk gives an overview of algorithms for decoding random linear code
 
 ### <span>15:00 - 16:30 | [Joseph Jean Boutros](http://www.josephboutros.org/):</span> TBC###
 
-### <span>16:45 - 18:15 | [Thomas Johansson](http://portal.research.lu.se/portal/en/persons/thomas-johansson(f6c92fc5-826c-4c22-9c01-d9c9e2c9febd).html):</span> TBC###
+### <span>16:45 - 18:15 | [Thomas Johansson](http://portal.research.lu.se/portal/en/persons/thomas-johansson(f6c92fc5-826c-4c22-9c01-d9c9e2c9febd).html):</span> Code-BKW###
 
 ## Venue ##
 

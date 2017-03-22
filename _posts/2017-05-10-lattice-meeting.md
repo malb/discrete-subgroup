@@ -15,14 +15,16 @@ In digital communications, signal constellations are usually drawn from a regula
 
 In the talk, an introduction to the concepts of lattice-reduction-aided and integer-forcing equalization is given. The respective mathematical background is studied and an overview on the different criteria and algorithms for solving the respective factorization problem is given.
 
-
 ### <span>13:00 - 14:30 | [Alexander May](http://www.cits.rub.de/personen/may.html):</span> Recent Advances in Decoding Random Binary Linear Codes – and Their Implications to Crypto###
 
 This survey talk gives an overview of algorithms for decoding random linear codes. We start with Pranges information set decoding and Stern's meet-in-the-middle technique, and building on these algorithms we explain recent advances by May, Meurer, Thomae (Asiacrypt 2011), Becker, Joux, May, Meurer (Eurocrypt 2012) and May, Ozerov (Eurocrypt 2015) that led to significant improvements in the run time exponent. Moreover, we discuss implications for choosing cryptographic keys in code-based cryptography, also in the quantum setting.
 
 ### <span>15:00 - 16:30 | [Joseph Jean Boutros](http://www.josephboutros.org/):</span> TBC###
 
-### <span>16:45 - 18:15 | [Thomas Johansson](http://portal.research.lu.se/portal/en/persons/thomas-johansson(f6c92fc5-826c-4c22-9c01-d9c9e2c9febd).html):</span> Code-BKW###
+### <span>16:45 - 18:15 | [Thomas Johansson](http://portal.research.lu.se/portal/en/persons/thomas-johansson(f6c92fc5-826c-4c22-9c01-d9c9e2c9febd).html):</span> Combinatorial Methods for Solving LWE###
+
+This survey talk gives an overview of combinatorial algorithms for solving the learning with errors (LWE) problem. We will discuss various problem instances of interest and then overview the BKW algorithm. We will present various improvements to BKW, including lazy modulus switching and coded-BKW (Albrecht, Faugère, Fitzpatrick, Perret, PKC 2014; Kirchner Fouque, Crypto 2015; Guo, Johansson, Stankovski, Crypto 2015).
+
 
 ## Venue ##
 

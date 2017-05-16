@@ -9,7 +9,7 @@ This meeting — on *10 May 2017* — is aimed at connecting the two communities
 
 ## Program ##
 
-### <span>10:30 - 12:00 | [Robert Fischer](https://www.uni-ulm.de/in/nt/staff/professors/fischer/):</span> Lattice Reduction and Factorization for Equalization###
+### <span>10:30 - 12:00 | [Robert Fischer](https://www.uni-ulm.de/in/nt/staff/professors/fischer/):</span> [Lattice Reduction and Factorization for Equalization](/discrete-subgroup/slides/2017-05-10-fischer.pdf)###
 
 In digital communications, signal constellations are usually drawn from a regular grid. Consequently, the mathematical tool of lattices is of great interest. Since more than one decade, equalization schemes based on the principle of lattice reduction, i.e., the selection of a suited basis, in which the equalization is carried out, are known to achieve the optimum diversity order with very low complexity. Recently, in the field of relaying, integer-forcing schemes have been proposed. Both approaches are tightly related to each other.
 

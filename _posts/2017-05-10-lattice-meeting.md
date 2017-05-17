@@ -15,7 +15,7 @@ In digital communications, signal constellations are usually drawn from a regula
 
 In the talk, an introduction to the concepts of lattice-reduction-aided and integer-forcing equalization is given. The respective mathematical background is studied and an overview on the different criteria and algorithms for solving the respective factorization problem is given.
 
-### <span>13:00 - 14:30 | [Alexander May](http://www.cits.rub.de/personen/may.html):</span> Recent Advances in Decoding Random Binary Linear Codes – and Their Implications to Crypto###
+### <span>13:00 - 14:30 | [Alexander May](http://www.cits.rub.de/personen/may.html):</span> [Recent Advances in Decoding Random Binary Linear Codes – and Their Implications to Crypto](/discrete-subgroup/slides/2017-05-10-may.pdf)###
 
 This survey talk gives an overview of algorithms for decoding random linear codes. We start with Pranges information set decoding and Stern's meet-in-the-middle technique, and building on these algorithms we explain recent advances by May, Meurer, Thomae (Asiacrypt 2011), Becker, Joux, May, Meurer (Eurocrypt 2012) and May, Ozerov (Eurocrypt 2015) that led to significant improvements in the run time exponent. Moreover, we discuss implications for choosing cryptographic keys in code-based cryptography, also in the quantum setting.
 

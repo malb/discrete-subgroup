@@ -21,7 +21,7 @@ Lattices provide useful analytical and algorithmic tools for designing codes for
 
 What is a good lattice? how do we know it exists? how can we construct it? The figure of merit depends, in fact, on the application. In the talk we shall assess lattice goodness for each of the communication problems above, and show the existence of asymptotically good lattices as the dimension N becomes large. We prove the existence result in two ways: first, indirectly, using the Minkowski-Hlawka theorem; second, by randomizing a linear-code based lattice construction ("construction A").
 
-### <span>15:00 - 16:30 | [Gottfried Herold](http://www.ens-lyon.fr/annuaire/m-gottfried-herold--329956.kjsp?RH=ENS-LYON):</span> Lattice Sieving ###
+### <span>15:00 - 16:30 | [Gottfried Herold](http://www.cits.rub.de/personen/herold.html):</span> Lattice Sieving ###
 
 ### <span>16:45 - 18:15 | [Martin Widmer](http://www.ma.rhul.ac.uk/mwidmer/):</span> Counting Lattice Points ###
 

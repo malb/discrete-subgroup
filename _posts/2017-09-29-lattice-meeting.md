@@ -9,11 +9,11 @@ This meeting — on *29 September 2017* — is aimed at connecting the two commu
 
 ## Program ##
 
-### <span>10:30 - 12:00 | Rachel Player:</span> Parameter Selection in Ring-LWE-based FHE ###
+### <span>10:30 - 12:00 | [Rachel Player](https://pure.royalholloway.ac.uk/portal/en/persons/rachel-player(67c61108-84bc-4e79-80ba-59a328b011f9).html):</span> Parameter Selection in Ring-LWE-based FHE ###
 
 Fully Homomorphic Encryption (FHE) is one of the flagship applications of lattice-based cryptography. Several FHE schemes are based on the Ring Learning with Errors (Ring-LWE) problem. The underlying Ring-LWE instances used in these schemes are however somewhat different from ’typical’ Ring-LWE instances, so the FHE setting is interesting from the point of view of security. Another key issue in the FHE setting is that the choice of parameters also influences the inherent noise, a feature present in all FHE ciphertexts, which must be kept below a certain threshold or else decryption will fail. Good understanding of the noise growth behaviour is therefore essential to ensure correctness. In this talk we discuss the challenge of picking parameters in the FHE setting, balancing the requirements of security, performance and correctness.
 
-### <span>13:00 - 14:30 | Ram Zamir:</span> Lattices in Information Theory ###
+### <span>13:00 - 14:30 | [Ram Zamir](https://www.eng.tau.ac.il/~zamir/):</span> Lattices in Information Theory ###
 
 A lattice is a discrete subgroup of the Euclidean N-dimensional space, which is closed under regular addition and reflection.
 
@@ -21,9 +21,9 @@ Lattices provide useful analytical and algorithmic tools for designing codes for
 
 What is a good lattice? how do we know it exists? how can we construct it? The figure of merit depends, in fact, on the application. In the talk we shall assess lattice goodness for each of the communication problems above, and show the existence of asymptotically good lattices as the dimension N becomes large. We prove the existence result in two ways: first, indirectly, using the Minkowski-Hlawka theorem; second, by randomizing a linear-code based lattice construction ("construction A").
 
-### <span>15:00 - 16:30 | Gottfried Herold:</span> Lattice Sieving ###
+### <span>15:00 - 16:30 | [Gottfried Herold](http://www.ens-lyon.fr/annuaire/m-gottfried-herold--329956.kjsp?RH=ENS-LYON):</span> Lattice Sieving ###
 
-### <span>16:45 - 18:15 | Martin Widmer:</span> Counting Lattice Points ###
+### <span>16:45 - 18:15 | [Martin Widmer](http://www.ma.rhul.ac.uk/mwidmer/):</span> Counting Lattice Points ###
 
 In this talk we discuss the problem of counting lattice points in a given bounded subset of Euclidean space. If the set is sufficiently "nice" one expects that the ration of volume and lattice determinant is a reasonable estimate for this cardinality. But what exactly does “nice” mean here, can one find such “niceness-conditions” that are mild and easy to check in practise, and what quantities of the lattice and the set does the error term depend on? What can we say more when the lattice is admissible (e.g. the Minkowski-embedding of an ideal of a totally real number field) or at least “almost“ admissible? We hope to answer all of these questions .
 

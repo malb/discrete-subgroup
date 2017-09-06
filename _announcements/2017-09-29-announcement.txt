@@ -1,0 +1,40 @@
+London-ish Lattice Coding & Crypto Meeting: 29 September 2017
+---
+Dear all,
+
+The next London-ish Lattice Coding & Crypto meeting will be on *Friday, 29 September 2017* It will consist of two coding and two crypto talks, with a format aimed at encouraging interaction.
+
+We would appreciate if you could help us spread the word.
+
+# Tentative program #
+
+More details here as they become available:
+
+  http://malb.io/discrete-subgroup/2017/09/29/
+
+## 10:30 - 12:00 | Rachel Player (Royal Holloway): Parameter Selection in Ring-LWE-based FHE ##
+
+## 13:00 - 14:30 | Ram Zamir (Tel Aviv University): Lattices in Information Theory ##
+
+## 15:00 - 16:30 | Gottfried Herold (ENS Lyon): Lattice Sieving ##
+
+## 16:45 - 18:15 | Martin Widmer (Royal Holloway): Counting Lattice Points ##
+
+# Venue #
+
+Room 909B  
+Department of Electrical and Electronic Engineering  
+Imperial College London  
+South Kensington  
+London SW7 2AZ  
+
+# Registration #
+
+Everyone is welcome. Two caveats:
+
+1. Speakers are told the audience is somewhat familiar with lattices.
+
+2. Please send us an email at , so that the size of the room fits with the number of participants.
+
+Best,
+Cong Ling and Martin Albrecht

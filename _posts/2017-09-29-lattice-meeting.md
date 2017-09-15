@@ -23,6 +23,12 @@ What is a good lattice? how do we know it exists? how can we construct it? The f
 
 ### <span>15:00 - 16:30 | [Gottfried Herold](http://www.cits.rub.de/personen/herold.html):</span> Lattice Sieving ###
 
+One of the main approaches to solve the Shortest Vector Problem (SVP) on lattices is Lattice Sieving, which heuristically solves SVP in exponential (in the lattice rank) running time and memory. In the algorithm originally proposed by M. Ajtai, R. Kumar and D. Sivakumar, we combine pairs of lattice points to form ever shorter lattice points. It achieves an asymptotic complexity of 2^0.415n time and 2^0.208n memory to solve SVP, ignoring subexponential factors.
+
+There are currently two known techniques to asymptotically improve the complexity or to provide more flexible time-memory trade-offs: The first one is to use techniques from Locality Sensitive Hashing, due to A. Becker, L. Ducas, N. Gama and T. Laarhoven. The second technique is to combine more than two lattice points at a time, due to S. Bai, T. Laarhoven and D. Stehle, which was later improved by G. Herold and E. Kirshanova.
+
+In this talk, I will first present an overview over those techniques. Then I will explain a recent result, obtained jointly with E. Kirshanova and T. Laarhoven, how to improve further on the results from Herold and Kirshanova and how to combine the two techniques to get even better time-memory trade-offs. If time permits, I will talk about implementation challenges and open problems.
+
 ### <span>16:45 - 18:15 | [Martin Widmer](http://www.ma.rhul.ac.uk/mwidmer/):</span> Counting Lattice Points ###
 
 In this talk we discuss the problem of counting lattice points in a given bounded subset of Euclidean space. If the set is sufficiently "nice" one expects that the ration of volume and lattice determinant is a reasonable estimate for this cardinality. But what exactly does “nice” mean here, can one find such “niceness-conditions” that are mild and easy to check in practise, and what quantities of the lattice and the set does the error term depend on? What can we say more when the lattice is admissible (e.g. the Minkowski-embedding of an ideal of a totally real number field) or at least “almost“ admissible? We hope to answer all of these questions .

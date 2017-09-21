@@ -9,9 +9,9 @@ This meeting — on *29 September 2017* — is aimed at connecting the two commu
 
 ## Program ##
 
-### <span>10:30 - 12:00 | [Martin Widmer](http://www.ma.rhul.ac.uk/mwidmer/):</span> Counting Lattice Points ###
+### <span>10:30 - 12:00 | [Rachel Player](https://pure.royalholloway.ac.uk/portal/en/persons/rachel-player(67c61108-84bc-4e79-80ba-59a328b011f9).html):</span> Parameter Selection in Ring-LWE-based FHE ###
 
-In this talk we discuss the problem of counting lattice points in a given bounded subset of Euclidean space. If the set is sufficiently "nice" one expects that the ration of volume and lattice determinant is a reasonable estimate for this cardinality. But what exactly does “nice” mean here, can one find such “niceness-conditions” that are mild and easy to check in practise, and what quantities of the lattice and the set does the error term depend on? What can we say more when the lattice is admissible (e.g. the Minkowski-embedding of an ideal of a totally real number field) or at least “almost“ admissible? We hope to answer all of these questions .
+Fully Homomorphic Encryption (FHE) is one of the flagship applications of lattice-based cryptography. Several FHE schemes are based on the Ring Learning with Errors (Ring-LWE) problem. The underlying Ring-LWE instances used in these schemes are however somewhat different from ’typical’ Ring-LWE instances, so the FHE setting is interesting from the point of view of security. Another key issue in the FHE setting is that the choice of parameters also influences the inherent noise, a feature present in all FHE ciphertexts, which must be kept below a certain threshold or else decryption will fail. Good understanding of the noise growth behaviour is therefore essential to ensure correctness. In this talk we discuss the challenge of picking parameters in the FHE setting, balancing the requirements of security, performance and correctness.
 
 ### <span>13:00 - 14:30 | [Ram Zamir](https://www.eng.tau.ac.il/~zamir/):</span> Lattices in Information Theory ###
 
@@ -29,9 +29,9 @@ There are currently two known techniques to asymptotically improve the complexit
 
 In this talk, I will first present an overview over those techniques. Then I will explain a recent result, obtained jointly with E. Kirshanova and T. Laarhoven, how to improve further on the results from Herold and Kirshanova and how to combine the two techniques to get even better time-memory trade-offs. If time permits, I will talk about implementation challenges and open problems.
 
-### <span>16:45 - 18:15 | [Rachel Player](https://pure.royalholloway.ac.uk/portal/en/persons/rachel-player(67c61108-84bc-4e79-80ba-59a328b011f9).html):</span> Parameter Selection in Ring-LWE-based FHE ###
+### <span>16:45 - 18:15 | [Martin Widmer](http://www.ma.rhul.ac.uk/mwidmer/):</span> Counting Lattice Points ###
 
-Fully Homomorphic Encryption (FHE) is one of the flagship applications of lattice-based cryptography. Several FHE schemes are based on the Ring Learning with Errors (Ring-LWE) problem. The underlying Ring-LWE instances used in these schemes are however somewhat different from ’typical’ Ring-LWE instances, so the FHE setting is interesting from the point of view of security. Another key issue in the FHE setting is that the choice of parameters also influences the inherent noise, a feature present in all FHE ciphertexts, which must be kept below a certain threshold or else decryption will fail. Good understanding of the noise growth behaviour is therefore essential to ensure correctness. In this talk we discuss the challenge of picking parameters in the FHE setting, balancing the requirements of security, performance and correctness.
+In this talk we discuss the problem of counting lattice points in a given bounded subset of Euclidean space. If the set is sufficiently "nice" one expects that the ration of volume and lattice determinant is a reasonable estimate for this cardinality. But what exactly does “nice” mean here, can one find such “niceness-conditions” that are mild and easy to check in practise, and what quantities of the lattice and the set does the error term depend on? What can we say more when the lattice is admissible (e.g. the Minkowski-embedding of an ideal of a totally real number field) or at least “almost“ admissible? We hope to answer all of these questions .
 
 ## Venue ##
 

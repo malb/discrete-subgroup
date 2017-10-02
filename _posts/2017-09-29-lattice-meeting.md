@@ -9,7 +9,7 @@ This meeting — on *29 September 2017* — is aimed at connecting the two commu
 
 ## Program ##
 
-### <span>10:30 - 12:00 | [Rachel Player](https://pure.royalholloway.ac.uk/portal/en/persons/rachel-player(67c61108-84bc-4e79-80ba-59a328b011f9).html):</span> Parameter Selection in Ring-LWE-based FHE ###
+### <span>10:30 - 12:00 | [Rachel Player](https://pure.royalholloway.ac.uk/portal/en/persons/rachel-player(67c61108-84bc-4e79-80ba-59a328b011f9).html):</span> [Parameter Selection in Ring-LWE-based FHE](/discrete-subgroup/slides/2017-09-29-player.pdf) ###
 
 Fully Homomorphic Encryption (FHE) is one of the flagship applications of lattice-based cryptography. Several FHE schemes are based on the Ring Learning with Errors (Ring-LWE) problem. The underlying Ring-LWE instances used in these schemes are however somewhat different from ’typical’ Ring-LWE instances, so the FHE setting is interesting from the point of view of security. Another key issue in the FHE setting is that the choice of parameters also influences the inherent noise, a feature present in all FHE ciphertexts, which must be kept below a certain threshold or else decryption will fail. Good understanding of the noise growth behaviour is therefore essential to ensure correctness. In this talk we discuss the challenge of picking parameters in the FHE setting, balancing the requirements of security, performance and correctness.
 

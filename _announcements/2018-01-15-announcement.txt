@@ -1,0 +1,48 @@
+London-ish Lattice Coding & Crypto Meeting: 15 January 2018
+---
+Dear all,
+
+The next London-ish Lattice Coding & Crypto meeting will be on *Monday, 15 January 2018* It will consist of two coding and two crypto talks, with a format aimed at encouraging interaction.
+
+We would appreciate if you could help us spread the word.
+
+# Tentative program #
+
+More details here as they become available:
+
+  http://malb.io/discrete-subgroup/2018/01/15/
+
+## 10:30 - 12:00 | Sueli Costa: TBD ##
+
+http://www.itsoc.org/portal_memberdata/sueli
+
+## 13:00 - 14:30 | Ciara Rafferty: TBD ##
+
+https://pure.qub.ac.uk/portal/en/persons/ciara-rafferty(7f87d293-fc01-46c6-935b-298d5896ad56).html)
+
+## 15:00 - 16:30 | Danilo Silva: TBD ##
+
+http://danilosilva.sites.ufsc.br
+
+## 16:45 - 18:15 | Amit Deo: Ring-LWE vs. Module-LWE? ##
+
+https://pure.royalholloway.ac.uk/portal/en/persons/amit-deo(0ef69cf5-f802-4b3d-ad36-dc7cf7fe6a84).html)
+
+# Venue #
+
+Room 611  
+Department of Electrical and Electronic Engineering  
+Imperial College London  
+South Kensington  
+London SW7 2AZ  
+
+# Registration #
+
+Everyone is welcome. Two caveats:
+
+1. Speakers are told the audience is somewhat familiar with lattices.
+
+2. Please send us an email at c.ling@imperial.ac.uk, so that the size of the room fits with the number of participants.
+
+Best,
+Cong Ling and Martin Albrecht

@@ -13,9 +13,9 @@ This meeting — on *26 March 2018* — is aimed at connecting the two communiti
 
 ### <span> TBD | [Thomas Prest](https://www.di.ens.fr/~prest/)</span>: TBC ###
 
-### <span> TBD | [Xiaojun Yuan](http://sist.shanghaitech.edu.cn/faculty/yuanxj/)</span>: TITLE ###
+### <span> TBD | [Xiaojun Yuan](http://sist.shanghaitech.edu.cn/faculty/yuanxj/)</span>: TBC ###
 
-### <span> TBD | [Qifu Sun](https://www.researchgate.net/profile/Qifu_Sun)</span>: TITLE ###
+### <span> TBD | [Qifu Sun](https://www.researchgate.net/profile/Qifu_Sun)</span>: TBC ###
 
 ### <span> 18:30 - | Workshop Dinner </span> ###
 

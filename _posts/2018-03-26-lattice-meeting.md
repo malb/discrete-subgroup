@@ -9,7 +9,13 @@ This meeting — on *26 March 2018* — is aimed at connecting the two communiti
 
 ## Program ##
 
-### <span> TBD | [Carl Bootland](https://www.esat.kuleuven.be/cosic/carl-bootland/)</span>: TBC ###
+### <span> TBD | [Carl Bootland](https://www.esat.kuleuven.be/cosic/carl-bootland/)</span>: Using non-integral bases to make better use of the plaintext space in homomorphic encryption schemes ###
+
+In this talk I will present an encoding method for real numbers tailored for homomorphic function evaluation. Using a somewhat homomorphic encryption scheme allows one to compute simple arithmetic functions on encrypted data securely. Security constraints in all popular somewhat homomorphic encryption schemes necessitate the degree of the polynomial modulus to be large but with current encoding techniques the correctness requirement allows for much smaller values. As a result much of the plaintext space is left unused when using these encoding techniques. Our new generic encoding method uses expansions with respect to a non-integral base which allows one to exploit the full extent of the available plaintext space and reduces the growth of the coefficients when performing operations. This leads to better parameters and faster homomorphic function evaluation.
+
+Joint work with Charlotte Bonte, Joppe W. Bos, Wouter Castryk, Ilia Iliashenko, Frederik Vercauteren:
+
+Charlotte Bonte, Carl Bootland, Joppe W. Bos, Wouter Castryck, Ilia Iliashenko, Frederik Vercauteren, [Faster Homomorphic Function Evaluation using Non-Integral Base Encoding](https://eprint.iacr.org/2017/333), In Workshop on Cryptographic Hardware and Embedded Security, Lecture Notes in Computer Science, Springer-Verlag, pages 579–600, 2017.
 
 ### <span> TBD | [Thomas Prest](https://www.di.ens.fr/~prest/)</span>: TBC ###
 

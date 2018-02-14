@@ -19,7 +19,9 @@ Charlotte Bonte, Carl Bootland, Joppe W. Bos, Wouter Castryck, Ilia Iliashenko, 
 
 ### <span> TBD | [Thomas Prest](https://www.di.ens.fr/~prest/)</span>: TBC ###
 
-### <span> TBD | [Xiaojun Yuan](http://sist.shanghaitech.edu.cn/faculty/yuanxj/)</span>: TBC ###
+### <span> TBD | [Xiaojun Yuan](http://sist.shanghaitech.edu.cn/faculty/yuanxj/)</span>: Fundamental Limits of Compute-Compress-and-Forward ###
+
+Compute-and-forward (CF) harnesses interference by exploiting structured coding in wireless communication networks. The key idea of CF is to compute integer combinations of codewords from multiple source nodes, rather than to decode individual codewords by treating others as noise. Nested lattice codes are commonly used for efficient realization of CF. In this talk, we focus on how to forward the computed messages at relays in a wireless relay network. In general, these computed messages are correlated since they are combinations of a common set of source messages. As such, compression operations can be employed to enhance the spectral efficiency of the network. We show that the compression can be efficiently realized in a nested-lattice-coded network. Specifically, we present a compute-compress-and-forward (CCF) scheme where each relay compresses its computed message by taking quantization and modulo (QM) lattice operations. As an application, we explore the fundamental limits of CCF in a two-hop relay network with a single sink node. We show that CCF with multiple QM operations is optimal in the sense of achieving the minimum total compression rate. We also show that CCF is able to achieve the Slepian-Wolf rate region under certain conditions. We further show that most of the QM-operations involved in CCF can be realized in finite fields, so as to reduce the complexity involved in CCF. Numerical results are demonstrated to verify the superiority of CCF over CF.
 
 ### <span> TBD | [Qifu Sun](https://www.researchgate.net/profile/Qifu_Sun)</span>: TBC ###
 

@@ -17,7 +17,11 @@ Joint work with Charlotte Bonte, Joppe W. Bos, Wouter Castryk, Ilia Iliashenko, 
 
 Charlotte Bonte, Carl Bootland, Joppe W. Bos, Wouter Castryck, Ilia Iliashenko, Frederik Vercauteren, [Faster Homomorphic Function Evaluation using Non-Integral Base Encoding](https://eprint.iacr.org/2017/333), In Workshop on Cryptographic Hardware and Embedded Security, Lecture Notes in Computer Science, Springer-Verlag, pages 579–600, 2017.
 
-### <span> TBD | [Thomas Prest](https://www.di.ens.fr/~prest/)</span>: TBC ###
+### <span> TBD | [Thomas Prest](https://www.di.ens.fr/~prest/)</span>: The Rényi Divergence and Security Proofs ###
+
+The Rényi divergence has recently found several applications in lattice-based cryptography, in which it often produces tighter proofs than the more classical statistical distance. However, it remains somewhat arcane to use because to its properties (or lack thereof, such as symmetry and triangle inequality).
+
+In this talk, I will review recent advances regarding the Rényi divergence and provide an easy framework for establishing tight proofs using it. As an illustration, I will present examples in lattice-based cryptography for which the Rényi divergence allows significant gains. Finally, I will discuss open problems and potential future applications.
 
 ### <span> TBD | [Xiaojun Yuan](http://sist.shanghaitech.edu.cn/faculty/yuanxj/)</span>: Fundamental Limits of Compute-Compress-and-Forward ###
 

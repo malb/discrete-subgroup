@@ -21,6 +21,8 @@ This talk will present Markov chain Monte Carlo, its motivation in statistics an
 
 High-performance lattice codes for wireless and multiple antenna channels can be designed using number fields and division algebras. However, the main drawback of algebraic lattice codes is their prohibitive decoding complexity under maximum likelihood decoding. Algebraic reduction is a special lattice reduction technique which exploits the additional multiplicative structure of these codes to allow for low-complexity decoding. More precisely, this technique consists in absorbing part of the channel into the code, by approximating the channel matrix with an element of the group of units of the ring of integers in the number field, or of the group of units of the maximal order in the division algebra. This talk will revisit previous work on algebraic reduction and discuss the advantages and challenges of this technique as well as some recent applications.
 
+### <span> 18:30 - | Workshop Dinner </span> ###
+
 ## Venue ##
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2483.7481554015103!2d-0.1774244!3d51.4994889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31911b371c692e86!2sImperial+College!5e0!3m2!1sen!2suk!4v1457110930221" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

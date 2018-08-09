@@ -15,7 +15,7 @@ This meeting — on *24 September 2018* — is aimed at connecting the two commu
 
 This talk will present Markov chain Monte Carlo, its motivation in statistics and its probabilistic underpinning. Design and properties of the popular MCMC algorithms, such as the Metropolis-Hastings, the Gibbs sampler, MALA and Hamiltonian Monte Carlo will be presented and their optimisation that underlines the design of adaptive MCMC methods will be discussed.
 
-### <span> 15:00 - 16:30 | [TBC]()</span>:  ###
+### <span> 15:00 - 16:30 | [James Howe](http://www.bris.ac.uk/engineering/people/james-howe/index.html)</span>:  ###
 
 ### <span> 16:45 - 18:15 | [Laura Luzzi](http://perso-etis.ensea.fr/luzzi/)</span>: Algebraic reduction for low-complexity lattice decoding ###
 

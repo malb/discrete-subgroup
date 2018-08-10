@@ -7,7 +7,7 @@ Lattice-based approaches are emerging as a common theme in modern cryptography a
 
 This meeting — on *24 September 2018* — is aimed at connecting the two communities with a common interest in lattices. It will consist of several talks on related topics, with a format aimed at encouraging interaction.
 
-## Program ##
+## Programme ##
 
 ### <span> 10:30 - 12:00 | [Leo Ducas](https://homepages.cwi.nl/~ducas/)</span>:  ###
 

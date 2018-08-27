@@ -17,7 +17,7 @@ Until recently, sieving was considered as a function to be used as a blackbox SV
 
 To formalise and generalise these new strategies, we propose the General Sieve Kernel (G6K, pronounced /ȝe.si.ka/), an abstract machine supporting a wide variety of lattice reduction strategies based on sieving algorithms. It is designed to minimise the sieving computation effort per reduction quality, and achieves this via mechanisms such as recycling and on-the-fly lifting. We provide a highly optimised, multi-threaded, tweakable, and open-source implementation of this stateful machine.
 
-Finally, we apply G6K to various lattice challenges (SVP, LWE). Our work demonstrates that sieving signficantly outperforms enumeration in dimensions achievable in practice.
+Finally, we apply G6K to various lattice challenges (SVP, LWE). Our work demonstrates that sieving significantly outperforms enumeration in dimensions achievable in practice.
 
 Joint work with Martin R. Albrecht, Gottfried Herold, Elena Kirshanova, Eamonn Postlethwaite and Marc Stevens.
 

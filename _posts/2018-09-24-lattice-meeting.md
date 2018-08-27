@@ -9,7 +9,15 @@ This meeting — on *24 September 2018* — is aimed at connecting the two commu
 
 ## Programme ##
 
-### <span> 10:30 - 12:00 | [Leo Ducas](https://homepages.cwi.nl/~ducas/)</span>:  ###
+### <span> 10:30 - 12:00 | [Leo Ducas](https://homepages.cwi.nl/~ducas/)</span>: The General Sieve Kernel and New Records in Lattice Reduction ###
+
+Sieving algorithms are asymptotically the fastest heuristic algorithms for solving the shortest vector problem, and therefore for solving other problems such as LWE or SIS, due to the Block-Korkine-Zolotarev lattice reduction algorithm (BKZ).
+
+Until recently, sieving was considered as a function to be used as a blackbox SVP oracle inside BKZ\@. The works of Ducas (Eurocrypt 2018), and of Laarhoven and Mariano (PQCrypto 2018), however, proposed improvements to lattice reduction that go beyond this blackbox use of Sieve-style algorithms.
+
+To formalise and generalise these new strategies, we propose the General Sieve Kernel (G6K, pronounced /ȝe.si.ka/), an abstract machine supporting a wide variety of lattice reduction strategies based on sieving algorithms. It is designed to minimise the sieving computation effort per reduction quality, and achieves this via mechanisms such as recycling and on-the-fly lifting. We provide a highly optimised, multi-threaded, tweakable, and open-source implementation of this stateful machine.
+
+Finally, we apply G6K to various lattice challenges (SVP, LWE). For example, we solve previously unsolved instances of the Darmstadt SVP and LWE challenges (SVP ≥ 151, LWE (75, 0.005)). Our work demonstrates that sieving signficantly outperforms enumeration in dimensions achievable in practice.
 
 ### <span> 13:00 - 14:30 | [Krzysztof Latuszynski](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/latuszynski/)</span>: Markov chain Monte Carlo: design and optimisation ###
 

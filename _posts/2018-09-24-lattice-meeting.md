@@ -9,7 +9,7 @@ This meeting — on *24 September 2018* — is aimed at connecting the two commu
 
 ## Programme ##
 
-### <span> 10:30 - 12:00 | [Leo Ducas](https://homepages.cwi.nl/~ducas/)</span>: The General Sieve Kernel and New Records in Lattice Reduction ###
+### <span> 10:30 - 12:00 | [Leo Ducas](https://homepages.cwi.nl/~ducas/)</span>: [The General Sieve Kernel and New Records in Lattice Reduction](/discrete-subgroup/slides/2018-09-24-ducas.pdf) ###
 
 Sieving algorithms are asymptotically the fastest heuristic algorithms for solving the shortest vector problem, and therefore for solving other problems such as LWE or SIS, due to the Block-Korkine-Zolotarev lattice reduction algorithm (BKZ).
 
@@ -21,15 +21,15 @@ Finally, we apply G6K to various lattice challenges (SVP, LWE). Our work demonst
 
 Joint work with Martin R. Albrecht, Gottfried Herold, Elena Kirshanova, Eamonn Postlethwaite and Marc Stevens.
 
-### <span> 13:00 - 14:30 | [Krzysztof Latuszynski](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/latuszynski/)</span>: Markov chain Monte Carlo: design and optimisation ###
+### <span> 13:00 - 14:30 | [Krzysztof Latuszynski](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/latuszynski/)</span>: [Markov chain Monte Carlo: design and optimisation](/discrete-subgroup/slides/2018-09-24-latuszynski.pdf) ###
 
 This talk will present Markov chain Monte Carlo, its motivation in statistics and its probabilistic underpinning. Design and properties of the popular MCMC algorithms, such as the Metropolis-Hastings, the Gibbs sampler, MALA and Hamiltonian Monte Carlo will be presented and their optimisation that underlines the design of adaptive MCMC methods will be discussed.
 
-### <span> 15:00 - 16:30 | [James Howe](http://www.bris.ac.uk/engineering/people/james-howe/index.html)</span>: Standard Lattice-Based Key Encapsulation on Embedded Devices ###
+### <span> 15:00 - 16:30 | [James Howe](http://www.bris.ac.uk/engineering/people/james-howe/index.html)</span>: [Standard Lattice-Based Key Encapsulation on Embedded Devices](/discrete-subgroup/slides/2018-09-24-howe.pdf) ###
 
 In 2016, Bos et al. proposed the key exchange scheme FrodoCCS, that is also a submission to the NIST post-quantum standardization process, modified as a key encapsulation mechanism (FrodoKEM). The security of the scheme is based on standard lattices and the learning with errors problem. Due to the large parameters, standard lattice-based schemes have long been considered impractical on embedded devices. The FrodoKEM proposal actually comes with parameters that bring standard lattice-based cryptography within reach of being feasible on constrained devices. In this talk, we show how we have taken the final step of efficiently implementing the scheme on a low-cost FPGA and microcontroller devices and thus making conservative post-quantum cryptography practical on small devices.
 
-### <span> 16:45 - 18:15 | [Laura Luzzi](http://perso-etis.ensea.fr/luzzi/)</span>: Algebraic reduction for low-complexity lattice decoding ###
+### <span> 16:45 - 18:15 | [Laura Luzzi](http://perso-etis.ensea.fr/luzzi/)</span>: [Algebraic reduction for low-complexity lattice decoding]((/discrete-subgroup/slides/2018-09-24-luzzi.pdf)) ###
 
 High-performance lattice codes for wireless and multiple antenna channels can be designed using number fields and division algebras. However, the main drawback of algebraic lattice codes is their prohibitive decoding complexity under maximum likelihood decoding. Algebraic reduction is a special lattice reduction technique which exploits the additional multiplicative structure of these codes to allow for low-complexity decoding. More precisely, this technique consists in absorbing part of the channel into the code, by approximating the channel matrix with an element of the group of units of the ring of integers in the number field, or of the group of units of the maximal order in the division algebra. This talk will revisit previous work on algebraic reduction and discuss the advantages and challenges of this technique as well as some recent applications.
 

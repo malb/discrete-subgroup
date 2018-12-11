@@ -19,18 +19,19 @@ The transition to quantum-resistant cryptography will require designing, impleme
 
 Lattice signature schemes generally require particular care when it comes to preventing secret information from leaking through signature transcript. For example, the Goldreich-Goldwasser-Halevi (GGH) signature scheme and the NTRUSign scheme were completely broken by the parallelepiped-learning attack of Nguyen and Regev (Eurocrypt 2006). Several heuristic countermeasures were also shown vulnerable to similar statistical attacks. At PKC 2008, Plantard, Susilo and Win proposed a new variant of GGH, informally arguing resistance to such attacks. Based on this variant, Plantard, Sipasseuth, Dumondelle and Susilo proposed a concrete signature scheme, called DRS, that has been accepted in the round 1 of the NIST post-quantum cryptography project. In this work, we propose yet another statistical attack and demonstrate a weakness of the DRS scheme: one can recover some partial information of the secret key from sufficiently many signatures. One difficulty is that, due to the DRS reduction algorithm, the relation between the statistical leak and the secret seems more intricate. We work around this difficulty by training a statistical model, using a few features that we designed according to a simple heuristic analysis. While we only recover partial information on the secret key, this information is easily exploited by lattice attacks, significantly decreasing their complexity. Concretely, we claim that, provided that signatures are available, the secret key may be recovered using BKZ-138 for the first set of DRS parameters submitted to the NIST. This puts the security level of this parameter set below 80-bits (maybe even 70-bits), to be compared to an original claim of 128-bits. Joint work with Léo Ducas.
 
-### <span> 16:45 - 18:15 | [Sanju Velani](https://pure.york.ac.uk/portal/en/researchers/sanju-velani(3b7d2e29-c243-4ed7-b284-c819e74101b7).html)</span>: TBC ###
+### <span> 16:45 - 18:15 | [Sanju Velani](https://pure.york.ac.uk/portal/en/researchers/sanju-velani(3b7d2e29-c243-4ed7-b284-c819e74101b7).html**</span>: TBC ###
 
 ## Venue ##
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.5716429551107!2d-0.13092398422951979!3d51.52107427963726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b31e31ef41f%3A0xe17c7d5b78db95c2!2sSenate+House+Library!5e0!3m2!1sen!2suk!4v1540890684507" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+**Note the changed venue.**
 
-SENATE-102  
-Senate House  
-University of London  
-Malet St  
-Bloomsbury  
-London WC1E 7HU  
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2483.7481554015103!2d-0.1774244!3d51.4994889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31911b371c692e86!2sImperial+College!5e0!3m2!1sen!2suk!4v1457110930221" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Room 1109  
+Department of Electrical and Electronic Engineering  
+[Imperial College London](http://www.imperial.ac.uk/visit/campuses/south-kensington/)  
+South Kensington  
+London SW7 2AZ  
 
 ## Registration ##
 

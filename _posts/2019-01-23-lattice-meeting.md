@@ -13,7 +13,9 @@ This meeting — on Wednesday *23 January 2019* — is aimed at connecting the t
 
 The transition to quantum-resistant cryptography will require designing, implementing, certifying and deploying new hardware capable of accelerating post-quantum cryptographic schemes. Given how slow this process can be, we look at the possibility of repurposing currently existing RSA/ECC co-processors for accelerating (ideal) lattice-based cryptography by exploiting the availability of fast long integer multiplication. Such co-processors are deployed in smart cards in passports and identity cards, secured microcontrollers and hardware security modules (HSM). In particular, we demonstrate an implementation of a variant of the Module-LWE-based Kyber Key Encapsulation Mechanism (KEM) that is tailored for high performance on a commercially available smart card chip (SLE 78).
 
-### <span> 13:00 - 14:30 | [Patrick Solé](https://www.researchgate.net/profile/Patrick_Sole)</span>: TBC ###
+### <span> 13:00 - 14:30 | [Patrick Solé](https://www.researchgate.net/profile/Patrick_Sole)</span>: Good Algebraic Codes Exist ###
+
+We survey the algebraic structure and asymptotic performance of the self-dual and LCD classes of quasi-cyclic, quasi-twisted, and dihedral codes over finite fields and finite rings. Of special interest is the case of low index: double circulant codes and four circulant codes. An application to additive cyclic codes is given.
 
 ### <span> 15:00 - 16:30 | [Yang Yu](https://www.cwi.nl/people/yang-yu)</span>: Learning Strikes Again: The Case of the DRS Signature Scheme ###
 

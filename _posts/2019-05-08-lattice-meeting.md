@@ -21,7 +21,7 @@ This meeting — on Wednesday *8 May 2019* — is aimed at connecting the two co
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.639424114085!2d-0.1317048842295599!3d51.519830879637205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2df948f01d%3A0x26c5a650cb0f521a!2sRoyal+Holloway+University+of+London!5e0!3m2!1sen!2suk!4v1553607558218" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Room: BEDSQ-1-03 
+Room: BEDSQ-1-03  
 11 Bedford Square  
 Bloomsbury  
 London WC1B 3RF

@@ -11,7 +11,14 @@ This meeting — on Wednesday *8 May 2019* — is aimed at connecting the two co
 
 ### <span> 10:30 - 12:00 | [Mengfan Zheng](https://dblp.org/pers/z/Zheng:Mengfan)</span>: [TBC]() ###
 
-### <span> 13:00 - 14:30 | [Petros Wallden](http://www.pwallden.gr/) and [Alex Cojocaru](https://www.inf.ed.ac.uk/people/students/Alexandru_Cojocaru.html)</span>: [TBC]() ###
+### <span> 13:00 - 13:45 | [Petros Wallden](http://www.pwallden.gr/)</span>: [Computational Security for Quantum Protocols: How Classical Parties can Obtain a Secure
+Access in the Quantum Internet]() ###
+
+Frequently quantum cryptography is associated with information theoretic security (ITS) and specifically with ITS key expansion. However, this is a very limited view. In reality quantum protocols can offer other advantages such as better efficiency. In that setting, where the benefit from using quantum protocols comes in form of efficiency, it is meaningful to consider protocols that offer security guarantees based on computational assumptions. In this talk, after giving a brief introduction to quantum computing, I will give examples of computationally secure quantum protocols and focus on our recent work on how to enable a fully classical party to participate in quantum protocols (including delegated blind quantum computation) and why this is important. The primitive of delegated pseudo-secret random qubit generator will be introduced, and a protocol achieving this based on trapdoor one-way functions with extra properties will be given.
+
+### <span> 13:45 - 14:30 | [Alex Cojocaru](https://www.inf.ed.ac.uk/people/students/Alexandru_Cojocaru.html)</span>: [QFactory from Learning With Errors]() ###
+
+In this talk I delve further in the primitive PSRQG defined in the previous talk. I first give a concrete construction of the function required for the simplest construction (secure only against honest-but-curious adversaries), based on the Learning-With-Errors problem and the trapdoor function of Micciancio and Peikert. Then I will give the second protocol that is secure against malicious adversaries, giving also the intuition of the proof and the new, modified functions used.
 
 ### <span> 15:00 - 16:30 | [Roope Vehkalahti](https://people.aalto.fi/roope.vehkalahti)</span>: [TBC]() ###
 

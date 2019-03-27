@@ -9,7 +9,9 @@ This meeting — on Wednesday *8 May 2019* — is aimed at connecting the two co
 
 ## Programme ##
 
-### <span> 10:30 - 12:00 | [Mengfan Zheng](https://dblp.org/pers/z/Zheng:Mengfan)</span>: [TBC]() ###
+### <span> 10:30 - 12:00 | [Mengfan Zheng](https://www.imperial.ac.uk/people/m.zheng)</span>: [On the Polarization of Rényi Entropy]() ###
+
+Existing polarization theories (including channel polarization and source polarization) have mostly been concerned with Shannon's information measures, such as Shannon entropy and mutual information, and some related measures such as the Bhattacharyya parameter. Although Shannon’s information measures are sufficient in many communication theories, they may not be so in some other scenarios (such as cryptography). In these areas, Rényi’s information measures, as a class of more general information measures, have been widely adopted. In this talk, I will introduce the polarization phenomenon when conditional Rényi entropies are used. Based on the results,  I will discuss the code design problem when Rényi divergence is used to measure the difference between the induced distribution and the target distribution, and possible applications in cryptography. 
 
 ### <span> 13:00 - 13:45 | [Petros Wallden](http://www.pwallden.gr/)</span>: [Computational Security for Quantum Protocols: How Classical Parties can Obtain a Secure Access in the Quantum Internet]() ###
 

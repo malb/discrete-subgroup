@@ -15,7 +15,14 @@ This meeting — on Wednesday *8 May 2019* — is aimed at connecting the two co
 
 ### <span> 15:00 - 16:30 | [Roope Vehkalahti](https://people.aalto.fi/roope.vehkalahti)</span>: [TBC]() ###
 
-### <span> 16:45 - 18:15 | [Sujoy Sinha Roy](https://www.cs.bham.ac.uk/~sinharos/)</span>: [TBC]() ###
+### <span> 16:45 - 18:15 | [Sujoy Sinha Roy](https://www.cs.bham.ac.uk/~sinharos/)</span>: [Engineering Lattice-based Cryptography - From Single Core to Multicore-Multiprocessor
+High-Performance Parallel Architectures]() ###
+
+In recent years, several hard problems from lattice theory have become popular for constructing post-quantum PKC. Besides post-quantum cryptography, lattice-problems have been used to construct homomorphic encryption schemes. Homomorphic encryption has applications in privacy-preserving cloud computing: users can upload their encrypted data in the cloud and can still perform computation on the encrypted data. While in theory, lattice-based cryptography offers wide applicability and strong security, its real deployment in a wide range of computing devices faces several challenges.
+
+I will talk about the challenges in computing polynomial arithmetic in a ring and the computational and architectural solutions to overcome these challenges. I will describe how our post-quantum PKC scheme SABER, which is a candidate in the ongoing NIST’s post-quantum standardization event, was constructed to achieve both strong security guarantee and efficiency. I will conclude my talk by presenting a methodology for designing high-performance parallel architectures for homomorphic computing on encrypted data in the cloud.
+
+### <span> 18:30 - | Workshop Dinner </span> ###
 
 ## Venue ##
 

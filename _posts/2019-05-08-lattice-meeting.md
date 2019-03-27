@@ -11,8 +11,7 @@ This meeting — on Wednesday *8 May 2019* — is aimed at connecting the two co
 
 ### <span> 10:30 - 12:00 | [Mengfan Zheng](https://dblp.org/pers/z/Zheng:Mengfan)</span>: [TBC]() ###
 
-### <span> 13:00 - 13:45 | [Petros Wallden](http://www.pwallden.gr/)</span>: [Computational Security for Quantum Protocols: How Classical Parties can Obtain a Secure
-Access in the Quantum Internet]() ###
+### <span> 13:00 - 13:45 | [Petros Wallden](http://www.pwallden.gr/)</span>: [Computational Security for Quantum Protocols: How Classical Parties can Obtain a Secure Access in the Quantum Internet]() ###
 
 Frequently quantum cryptography is associated with information theoretic security (ITS) and specifically with ITS key expansion. However, this is a very limited view. In reality quantum protocols can offer other advantages such as better efficiency. In that setting, where the benefit from using quantum protocols comes in form of efficiency, it is meaningful to consider protocols that offer security guarantees based on computational assumptions. In this talk, after giving a brief introduction to quantum computing, I will give examples of computationally secure quantum protocols and focus on our recent work on how to enable a fully classical party to participate in quantum protocols (including delegated blind quantum computation) and why this is important. The primitive of delegated pseudo-secret random qubit generator will be introduced, and a protocol achieving this based on trapdoor one-way functions with extra properties will be given.
 

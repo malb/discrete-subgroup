@@ -21,8 +21,7 @@ In this talk I delve further in the primitive PSRQG defined in the previous talk
 
 ### <span> 15:00 - 16:30 | [Roope Vehkalahti](https://people.aalto.fi/roope.vehkalahti)</span>: [TBC]() ###
 
-### <span> 16:45 - 18:15 | [Sujoy Sinha Roy](https://www.cs.bham.ac.uk/~sinharos/)</span>: [Engineering Lattice-based Cryptography - From Single Core to Multicore-Multiprocessor
-High-Performance Parallel Architectures]() ###
+### <span> 16:45 - 18:15 | [Sujoy Sinha Roy](https://www.cs.bham.ac.uk/~sinharos/)</span>: [Engineering Lattice-based Cryptography - From Single Core to Multicore-Multiprocessor High-Performance Parallel Architectures]() ###
 
 In recent years, several hard problems from lattice theory have become popular for constructing post-quantum PKC. Besides post-quantum cryptography, lattice-problems have been used to construct homomorphic encryption schemes. Homomorphic encryption has applications in privacy-preserving cloud computing: users can upload their encrypted data in the cloud and can still perform computation on the encrypted data. While in theory, lattice-based cryptography offers wide applicability and strong security, its real deployment in a wide range of computing devices faces several challenges.
 

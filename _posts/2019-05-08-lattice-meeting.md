@@ -21,7 +21,13 @@ Frequently quantum cryptography is associated with information theoretic securit
 
 In this talk I delve further in the primitive PSRQG defined in the previous talk. I first give a concrete construction of the function required for the simplest construction (secure only against honest-but-curious adversaries), based on the Learning-With-Errors problem and the trapdoor function of Micciancio and Peikert. Then I will give the second protocol that is secure against malicious adversaries, giving also the intuition of the proof and the new, modified functions used.
 
-### <span> 15:00 - 16:30 | [Roope Vehkalahti](https://people.aalto.fi/roope.vehkalahti)</span>: [TBC]() ###
+### <span> 15:00 - 16:30 | [Roope Vehkalahti](https://people.aalto.fi/roope.vehkalahti)</span>: [A Short Introduction to Lattices from Noncommutative Fields]() ###
+
+In recent years number field lattices have collected great interest both in crypto and communication theory communities. The main reason for this is their additional algebraic structure. This algebraic structure do not only provide the lattices special properties, but also methods to analyse them and prove existence results  by applying the vast theory of algebraic numbers.
+
+The emergence of multiple antenna communication systems  and related communication theory has also raised interest  on lattices that are built from noncommutative fields.  Just like in the case of commutative fields   such  lattices have rich structure and tight connections to the underlying  fields.
+
+In this talk I will discuss lattices that are constructed from noncommutative division algebras and show how some of the key properties of such lattices are  defined by algebraic invariants of the corresponding division algebras. Throughout the presentation I'll contrast these results to the corresponding ones in the commutative case.
 
 ### <span> 16:45 - 18:15 | [Sujoy Sinha Roy](https://www.cs.bham.ac.uk/~sinharos/)</span>: [Engineering Lattice-based Cryptography - From Single Core to Multicore-Multiprocessor High-Performance Parallel Architectures]() ###
 

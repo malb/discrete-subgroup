@@ -9,19 +9,19 @@ This meeting — on Wednesday *8 May 2019* — is aimed at connecting the two co
 
 ## Programme ##
 
-### <span> 10:30 - 12:00 | [Mengfan Zheng](https://www.imperial.ac.uk/people/m.zheng)</span>: [On the Polarization of Rényi Entropy]() ###
+### <span> 10:30 - 12:00 | [Mengfan Zheng](https://www.imperial.ac.uk/people/m.zheng)</span>: [On the Polarization of Rényi Entropy](/discrete-subgroup/slides/2019-05-08-zheng.pdf) ###
 
 Existing polarization theories (including channel polarization and source polarization) have mostly been concerned with Shannon's information measures, such as Shannon entropy and mutual information, and some related measures such as the Bhattacharyya parameter. Although Shannon’s information measures are sufficient in many communication theories, they may not be so in some other scenarios (such as cryptography). In these areas, Rényi’s information measures, as a class of more general information measures, have been widely adopted. In this talk, I will introduce the polarization phenomenon when conditional Rényi entropies are used. Based on the results,  I will discuss the code design problem when Rényi divergence is used to measure the difference between the induced distribution and the target distribution, and possible applications in cryptography. 
 
-### <span> 13:00 - 13:45 | [Petros Wallden](http://www.pwallden.gr/)</span>: [Computational Security for Quantum Protocols: How Classical Parties can Obtain a Secure Access in the Quantum Internet]() ###
+### <span> 13:00 - 13:45 | [Petros Wallden](http://www.pwallden.gr/)</span>: [Computational Security for Quantum Protocols: How Classical Parties can Obtain a Secure Access in the Quantum Internet](/discrete-subgroup/slides/2019-05-08-wallden.pdf) ###
 
 Frequently quantum cryptography is associated with information theoretic security (ITS) and specifically with ITS key expansion. However, this is a very limited view. In reality quantum protocols can offer other advantages such as better efficiency. In that setting, where the benefit from using quantum protocols comes in form of efficiency, it is meaningful to consider protocols that offer security guarantees based on computational assumptions. In this talk, after giving a brief introduction to quantum computing, I will give examples of computationally secure quantum protocols and focus on our recent work on how to enable a fully classical party to participate in quantum protocols (including delegated blind quantum computation) and why this is important. The primitive of delegated pseudo-secret random qubit generator will be introduced, and a protocol achieving this based on trapdoor one-way functions with extra properties will be given.
 
-### <span> 13:45 - 14:30 | [Alex Cojocaru](https://www.inf.ed.ac.uk/people/students/Alexandru_Cojocaru.html)</span>: [QFactory from Learning With Errors]() ###
+### <span> 13:45 - 14:30 | [Alex Cojocaru](https://www.inf.ed.ac.uk/people/students/Alexandru_Cojocaru.html)</span>: [QFactory from Learning With Errors](/discrete-subgroup/slides/2019-05-08-cojocaru.pdf) ###
 
 In this talk I delve further in the primitive PSRQG defined in the previous talk. I first give a concrete construction of the function required for the simplest construction (secure only against honest-but-curious adversaries), based on the Learning-With-Errors problem and the trapdoor function of Micciancio and Peikert. Then I will give the second protocol that is secure against malicious adversaries, giving also the intuition of the proof and the new, modified functions used.
 
-### <span> 15:00 - 16:30 | [Roope Vehkalahti](https://people.aalto.fi/roope.vehkalahti)</span>: [A Short Introduction to Lattices from Noncommutative Fields]() ###
+### <span> 15:00 - 16:30 | [Roope Vehkalahti](https://people.aalto.fi/roope.vehkalahti)</span>: [A Short Introduction to Lattices from Noncommutative Fields](/discrete-subgroup/slides/2019-05-08-vehkalahti.pdf) ###
 
 In recent years number field lattices have collected great interest both in crypto and communication theory communities. The main reason for this is their additional algebraic structure. This algebraic structure do not only provide the lattices special properties, but also methods to analyse them and prove existence results  by applying the vast theory of algebraic numbers.
 

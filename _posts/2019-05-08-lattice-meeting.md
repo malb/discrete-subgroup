@@ -29,7 +29,7 @@ The emergence of multiple antenna communication systems  and related communicati
 
 In this talk I will discuss lattices that are constructed from noncommutative division algebras and show how some of the key properties of such lattices are  defined by algebraic invariants of the corresponding division algebras. Throughout the presentation I'll contrast these results to the corresponding ones in the commutative case.
 
-### <span> 16:45 - 18:15 | [Sujoy Sinha Roy](https://www.cs.bham.ac.uk/~sinharos/)</span>: [Engineering Lattice-based Cryptography - From Single Core to Multicore-Multiprocessor High-Performance Parallel Architectures]() ###
+### <span> 16:45 - 18:15 | [Sujoy Sinha Roy](https://www.cs.bham.ac.uk/~sinharos/)</span>: [Engineering Lattice-based Cryptography - From Single Core to Multicore-Multiprocessor High-Performance Parallel Architectures](/discrete-subgroup/slides/2019-05-08-roy.pdf) ###
 
 In recent years, several hard problems from lattice theory have become popular for constructing post-quantum PKC. Besides post-quantum cryptography, lattice-problems have been used to construct homomorphic encryption schemes. Homomorphic encryption has applications in privacy-preserving cloud computing: users can upload their encrypted data in the cloud and can still perform computation on the encrypted data. While in theory, lattice-based cryptography offers wide applicability and strong security, its real deployment in a wide range of computing devices faces several challenges.
 

@@ -9,11 +9,26 @@ This meeting — on Wednesday *18 September 2019* — is aimed at connecting the
 
 ## Programme ##
 
-TBD
+### <span> AA:BB - CC:DD | [Ayush Bhandari](https://www.imperial.ac.uk/people/a.bhandari)</span>: []() ###
+### <span> AA:BB - CC:DD | [Thomas Debris](https://who.paris.inria.fr/Thomas.Debris/)</span>: []() ###
+### <span> AA:BB - CC:DD | [Sebastian Stern](https://www.uni-ulm.de/nt/staff/senior-researchers/stern/)</span>: []() ###
+### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
+
+
+### <span> 18:30 - | Workshop Dinner </span> ###
+
+
 
 ## Venue ##
 
-TBC
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2483.7481554015103!2d-0.1774244!3d51.4994889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x31911b371c692e86!2sImperial+College!5e0!3m2!1sen!2suk!4v1457110930221" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+Room 611 (Dennis Gabor Seminar Room)  
+Department of Electrical and Electronic Engineering  
+[Imperial College London](http://www.imperial.ac.uk/visit/campuses/south-kensington/)  
+South Kensington  
+London SW7 2AZ  
 
 ## Registration ##
 

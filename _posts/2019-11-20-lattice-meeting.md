@@ -9,11 +9,17 @@ This meeting — on Wednesday *20 November 2019* — is aimed at connecting the 
 
 ## Programme ##
 
-TBD
+### <span> AA:BB - CC:DD | [Koen de Boer](http://koendeboer.com/)</span>: []() ###
+
+### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
+
+### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
+
+### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
 
 ## Venue ##
 
-TBC
+Royal Holloway
 
 ## Registration ##
 

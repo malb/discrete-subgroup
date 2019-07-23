@@ -12,8 +12,8 @@ This meeting — on Wednesday *18 September 2019* — is aimed at connecting the
 ### <span> AA:BB - CC:DD | [Ayush Bhandari](https://www.imperial.ac.uk/people/a.bhandari)</span>: []() ###
 ### <span> AA:BB - CC:DD | [Thomas Debris](https://who.paris.inria.fr/Thomas.Debris/)</span>: []() ###
 ### <span> AA:BB - CC:DD | [Sebastian Stern](https://www.uni-ulm.de/nt/staff/senior-researchers/stern/)</span>: []() ###
-### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
 
+### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
 
 ### <span> 18:30 - | Workshop Dinner </span> ###
 

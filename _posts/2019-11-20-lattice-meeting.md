@@ -9,7 +9,7 @@ This meeting — on Wednesday *20 November 2019* — is aimed at connecting the 
 
 ## Programme ##
 
-### <span> AA:BB - CC:DD | [Koen de Boer](http://koendeboer.com/)</span>: []() ###
+### <span> AA:BB - CC:DD | [Koen de Boer](https://www.cwi.nl/people/koen-de-boer)</span>: []() ###
 
 ### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
 

@@ -9,9 +9,17 @@ This meeting — on Wednesday *18 September 2019* — is aimed at connecting the
 
 ## Programme ##
 
-### <span> AA:BB - CC:DD | [Ayush Bhandari](https://www.imperial.ac.uk/people/a.bhandari)</span>: []() ###
+### <span> AA:BB - CC:DD | [Ayush Bhandari](https://www.imperial.ac.uk/people/a.bhandari)</span>: [The Unlimited Sensing Framework: Sampling and Reconstruction using Modulo Non-linearities]() ###
+
+Almost all forms of data are captured using digital sensors or analog-to-digital converters (ADCs) which are inherently limited by dynamic range. Consequently, whenever a physical signal exceeds the maximum recordable voltage, the digital sensor saturates and results in clipped measurements. For example, a camera pointed towards the sun leads to an all-white photograph. Motivated by a variety of applications including scientific imaging, communication theory and digital sensing, a natural question that arises is: Can we capture a signal with arbitrary dynamic range?
+
+In this work, we introduce the Unlimited Sensing framework which is a novel, non-linear sensing architecture that allows for recovery of an arbitrarily high dynamic range, continuous-time signal from its low dynamic range, digital measurements. Our work is based on a radically different ADC design, which allows for the ADC to reset rather than to saturate, thus producing modulo or folded samples.
+
+In the first part of this talk, we discuss a recovery guarantee akin to Shannon’s sampling theorem which, remarkably, is independent of the maximum recordable ADC voltage. Our theory is complemented with a stable recovery algorithm. Moving further, we reinterpret the unlimited sensing framework as a generalized linear model and discuss the recovery of structured signals such as continuous-time sparse signals. This new sensing paradigm that is based on a co-design of hardware and algorithms leads to several interesting future research directions. On the theoretical front, a fundamental interplay of sampling theory and inverse problems raises new standalone questions. On the practical front, the benefits of a new way to sense the world (without dynamic range limitations) are clearly visible. We conclude this talk with a discussion on future directions and relevant applications.
+
 ### <span> AA:BB - CC:DD | [Thomas Debris](https://who.paris.inria.fr/Thomas.Debris/)</span>: []() ###
-### <span> AA:BB - CC:DD | [Sebastian Stern](https://www.uni-ulm.de/nt/staff/senior-researchers/stern/)</span>: []() ###
+
+### <span> AA:BB - CC:DD | [Sebastian Stern](https://www.uni-ulm.de/nt/staff/senior-researchers/stern/)</span>: [Complex and Quaternion-Valued Lattices for Digital Transmission]() ###
 
 ### <span> AA:BB - CC:DD | [Subhayan Roy Moulik](https://www.cs.ox.ac.uk/people/subhayan.roymoulik/)</span>: []() ###
 

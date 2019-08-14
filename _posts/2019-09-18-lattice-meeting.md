@@ -23,7 +23,15 @@ In this work, we introduce the Unlimited Sensing framework which is a novel, non
 
 In the first part of this talk, we discuss a recovery guarantee akin to Shannon’s sampling theorem which, remarkably, is independent of the maximum recordable ADC voltage. Our theory is complemented with a stable recovery algorithm. Moving further, we reinterpret the unlimited sensing framework as a generalized linear model and discuss the recovery of structured signals such as continuous-time sparse signals. This new sensing paradigm that is based on a co-design of hardware and algorithms leads to several interesting future research directions. On the theoretical front, a fundamental interplay of sampling theory and inverse problems raises new standalone questions. On the practical front, the benefits of a new way to sense the world (without dynamic range limitations) are clearly visible. We conclude this talk with a discussion on future directions and relevant applications.
 
-### <span> 16:30 - 18:00 | [Subhayan Roy Moulik](https://www.cs.ox.ac.uk/people/subhayan.roymoulik/)</span>: []() ###
+### <span> 16:30 - 18:00 | [Subhayan Roy Moulik](https://www.cs.ox.ac.uk/people/subhayan.roymoulik/)</span>: [Quantum Algorithms for Lattice Sieving]() ###
+
+The Shortest Vector Problem (SVP) is one of the central problems in the theory of lattices. For a given d-dimensional Euclidean lattice, usually described by a basis, to solve SVP is to find the shortest non-zero vector in the lattice. This talk will be about discussing new algorithms and design techniques to solve SVP on a quantum computer, that is equipped with Hadamard, CNOT and pi/8 gates; and comparing it with the best known quantum algorithm, that solves SVP in exp(0.2653d + o(d)) time steps, needs exp(0.2653d + o(d)) classical memory, and is set in the QRAM model. 
+
+In the first part of the talk I will formulate the quantum analogue of the classical k-Sieve Algorithm, due to Herold-Kirshanova-Laarhoven in the QRAM model and show how to find the short(est) vector with exp(0.1395d + o(d)) classical memory, in exp(0.2989d + o(d)) time steps. Following that, I will a rephrase and discuss k-Sieve as k-Clique listing problem. 
+
+In the second part of the talk, I want to reflect on the issues of QRAM model of quantum computation and then go on to present a distributed quantum algorithm in the circuit model that heuristically solves SVP in exp(0.1037d + o(d)) time steps and needs exp(0.2075d + o(d)) quantum memory. Time permitting I will discuss a classical counterpart of this distributed quantum algorithm.
+
+All exponents are base 2. This talk will be based on results from a joint work with Elena Kirshanova, Erik Mårtensson, and Eamonn Postlethwaite.
 
 ### <span> 18:30 - | Workshop Dinner </span> ###
 

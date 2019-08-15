@@ -11,7 +11,7 @@ This meeting — on Wednesday *20 November 2019* — is aimed at connecting the 
 
 ### <span> AA:BB - CC:DD | [Koen de Boer](https://www.cwi.nl/people/koen-de-boer)</span>: []() ###
 
-### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
+### <span> AA:BB - CC:DD | [Jianwei Li]()</span>: [Slide Reduction, Revisited -- Filling the Gaps in SVP Approximation]() ###
 
 ### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
 

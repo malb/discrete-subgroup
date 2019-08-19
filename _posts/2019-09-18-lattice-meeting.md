@@ -15,6 +15,27 @@ We present here a new family of trapdoor one-way functions that are Preimage Sam
 
 ### <span> 13:00 - 14:30 | [Sebastian Stern](https://www.uni-ulm.de/nt/staff/senior-researchers/stern/)</span>: [Complex and Quaternion-Valued Lattices for Digital Transmission]() ###
 
+In digital communications, lattices can be utilized to design powerful coding and modulation
+schemes. Moreover, in recent years, lattice-reduction-aided equalization approaches have become very
+popular since they enable high-quality multiple-input/multiple-output (MIMO) transmission,
+particularly in multi-user/multi-antenna scenarios. Unfortunately, in (mathematical) lattice theory,
+real-valued lattices are most often considered, i.e., lattices over the (real-valued) integers. In
+contrast, in the field of radio-frequency communication, equivalent baseband transmit and receive
+signals are usually represented using complex numbers (single-polarized electromagnetic waves) or
+quaternions (dual-polarized electromagnetic waves).
+
+Hence, in the first part of the talk, complex-valued lattices are discussed. In particular, lattices
+over the Gaussian integers (complex integer lattice) as well as the Eisenstein integers (complex
+hexagonal lattice; densest 2D packing) and related coded-modulation schemes are considered. It is
+shown how criteria and algorithms for lattice basis reduction can be generalized to the
+complex-valued case. Besides, for the MIMO setting, the constraints on the channel code and the
+modulation approach are worked out.
+
+In the second part of the presentation, quaternion-valued lattices are focused. This concerns
+lattices over the Lipschitz integers (quaternion-valued integer lattice) and the Hurwitz integers
+(isomorphic to D4 lattice; densest 4D packing). The similarities and differences to complex lattices
+are enlightened and related coded-modulation strategies are presented.
+
 ### <span> 15:00 - 16:00 | [Ayush Bhandari](https://www.imperial.ac.uk/people/a.bhandari)</span>: [The Unlimited Sensing Framework: Sampling and Reconstruction using Modulo Non-linearities]() ###
 
 Almost all forms of data are captured using digital sensors or analog-to-digital converters (ADCs) which are inherently limited by dynamic range. Consequently, whenever a physical signal exceeds the maximum recordable voltage, the digital sensor saturates and results in clipped measurements. For example, a camera pointed towards the sun leads to an all-white photograph. Motivated by a variety of applications including scientific imaging, communication theory and digital sensing, a natural question that arises is: Can we capture a signal with arbitrary dynamic range?

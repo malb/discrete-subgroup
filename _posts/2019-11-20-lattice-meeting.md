@@ -13,7 +13,9 @@ This meeting — on Wednesday *20 November 2019* — is aimed at connecting the 
 
 ### <span> AA:BB - CC:DD | [Jianwei Li]()</span>: [Slide Reduction, Revisited -- Filling the Gaps in SVP Approximation]() ###
 
-### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
+### <span> AA:BB - CC:DD | [Ilia Iliashenko](https://www.esat.kuleuven.be/cosic/people/ilia-iliashenko/)</span>: [Sparse-secret Ring-LWE in FHE: is it really needed?]() ###
+
+The most efficient fully homomorphic encryption schemes rely on a variant of the Ring-LWE problem with secret keys of a fixed and small Hamming weight. Such secrets allow faster FHE bootstrapping at the cost of weaker security guarantees. In this work we studied how how to perform bootstrapping without sparse secrets, thus avoiding this security loss in the HEAAN FHE scheme.
 
 ### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
 

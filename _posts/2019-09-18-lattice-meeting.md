@@ -9,7 +9,7 @@ This meeting — on Wednesday *18 September 2019* — is aimed at connecting the
 
 ## Programme ##
 
-### <span> 10:30 - 12:00 | [Thomas Debris](https://who.paris.inria.fr/Thomas.Debris/)</span>: [Wave: A New Family of Trapdoor One-Way Preimage Sampleable Functions Based on Codes]() ###
+### <span> 10:30 - 12:00 | [Thomas Debris](https://who.paris.inria.fr/Thomas.Debris/)</span>: [Wave: A New Family of Trapdoor One-Way Preimage Sampleable Functions Based on Codes](/discrete-subgroup/slides/2019-09-18-debris.pdf) ###
 
 We present here a new family of trapdoor one-way functions that are Preimage Sampleable on Average (PSA) based on codes: the Wave-PSA family. Our trapdoor function is one-way under two computational assumptions: the hardness of generic decoding for high weights and the indistinguishability of generalized (U, U + V)-codes. Our proof follows the GPV strategy [GPV08]. By including rejection sampling, we ensure the proper distribution for the trapdoor inverse output. The domain sampling property of our family is ensured by using and proving a variant of the left-over hash lemma. We instantiate the new Wave-PSA family with ternary generalized (U, U + V)-codes to design a “hash-and-sign” signature scheme which achieves existential unforgeability under adaptive chosen message attacks (EUF-CMA) in the random oracle model. For 128 bits of classical security, signature sizes are in the order of 13 thousand bits, the public key size in the order of 3 megabytes, and the rejection rate is limited to one rejection every 10 to 12 signatures. 
 
@@ -44,7 +44,7 @@ In this work, we introduce the Unlimited Sensing framework which is a novel, non
 
 In the first part of this talk, we discuss a recovery guarantee akin to Shannon’s sampling theorem which, remarkably, is independent of the maximum recordable ADC voltage. Our theory is complemented with a stable recovery algorithm. Moving further, we reinterpret the unlimited sensing framework as a generalized linear model and discuss the recovery of structured signals such as continuous-time sparse signals. This new sensing paradigm that is based on a co-design of hardware and algorithms leads to several interesting future research directions. On the theoretical front, a fundamental interplay of sampling theory and inverse problems raises new standalone questions. On the practical front, the benefits of a new way to sense the world (without dynamic range limitations) are clearly visible. We conclude this talk with a discussion on future directions and relevant applications.
 
-### <span> 16:30 - 18:00 | [Subhayan Roy Moulik](https://www.cs.ox.ac.uk/people/subhayan.roymoulik/)</span>: [Quantum Algorithms for Lattice Sieving]() ###
+### <span> 16:30 - 18:00 | [Subhayan Roy Moulik](https://www.cs.ox.ac.uk/people/subhayan.roymoulik/)</span>: [Quantum Algorithms for Lattice Sieving](/discrete-subgroup/slides/2019-09-18-moulik.pdf) ###
 
 The Shortest Vector Problem (SVP) is one of the central problems in the theory of lattices. For a given d-dimensional Euclidean lattice, usually described by a basis, to solve SVP is to find the shortest non-zero vector in the lattice. This talk will be about discussing new algorithms and design techniques to solve SVP on a quantum computer, that is equipped with Hadamard, CNOT and pi/8 gates; and comparing it with the best known quantum algorithm, that solves SVP in exp(0.2653d + o(d)) time steps, needs exp(0.2653d + o(d)) classical memory, and is set in the QRAM model. 
 

@@ -9,15 +9,23 @@ This meeting — on Wednesday *20 November 2019* — is aimed at connecting the 
 
 ## Programme ##
 
-### <span> AA:BB - CC:DD | [Koen de Boer](https://www.cwi.nl/people/koen-de-boer)</span>: []() ###
-
-### <span> AA:BB - CC:DD | [Jianwei Li]()</span>: [Slide Reduction, Revisited -- Filling the Gaps in SVP Approximation]() ###
-
-### <span> AA:BB - CC:DD | [Ilia Iliashenko](https://www.esat.kuleuven.be/cosic/people/ilia-iliashenko/)</span>: [Sparse-secret Ring-LWE in FHE: is it really needed?]() ###
+### <span> 11:00 - 12:00 | [Ilia Iliashenko](https://www.esat.kuleuven.be/cosic/people/ilia-iliashenko/)</span>: [Sparse-secret Ring-LWE in FHE: is it really needed?]() ###
 
 The most efficient fully homomorphic encryption schemes rely on a variant of the Ring-LWE problem with secret keys of a fixed and small Hamming weight. Such secrets allow faster FHE bootstrapping at the cost of weaker security guarantees. In this work we studied how how to perform bootstrapping without sparse secrets, thus avoiding this security loss in the HEAAN FHE scheme.
 
-### <span> AA:BB - CC:DD | [TBC]()</span>: []() ###
+### <span> 13:0:00 - 14:30 | [Jan-Pieter D'Anvers](https://www.esat.kuleuven.be/cosic/people/jan-pieter-danvers/)</span>: [How dangerous are decryption failures in lattice-based encryption?]() ###
+
+Many lattice-based encryption schemes are prone to a small decryption failure probability, where valid ciphertexts can not be decrypted. These failures leak information about the secret key and can thus be used to break the scheme. In this talk, we will examine how to optimize the search for decryption failures, and how to recover the secret using these failures.
+
+### <span> 15:00 - 16:00| [Jianwei Li]()</span>: [Slide Reduction, Revisited -- Filling the Gaps in SVP Approximation]() ###
+
+We show how to generalize Gama and Nguyen's slide reduction algorithm [STOC '08] for solving the approximate Shortest Vector Problem over lattices (SVP) to allow for arbitrary block sizes, rather than just block sizes that divide the rank $n$ of the lattice. This leads to significantly better running times for most approximation factors. We accomplish this by showing that a weaker notion of reduction (HSVP reduction) suffices for the first block of a slide-reduced basis and using the DBKZ algorithm of Micciancio and Walter [Eurocrypt '16] to achieve this notion.
+    
+We also show a different algorithm that works when the block size is quite large---at least half the total rank. This yields the first non-trivial algorithm for sublinear approximation factors. 
+    
+Together with some additional optimizations, these results yield significantly faster provably correct algorithms for $\delta$-approximate SVP for all approximation factors $n^{1/2+\eps} \leq \delta \leq n^{O(1)}$, which is the regime most relevant for cryptography. For the specific values of $\delta = n^{1-\eps}$ and $\delta = n^{2-\eps}$, we improve the exponent in the running  time by a factor of $2$ and a factor of $1.5$ respectively.
+
+### <span> 16:30 - 18:00 | [Koen de Boer](https://www.cwi.nl/people/koen-de-boer)</span>: []() ###
 
 ## Venue ##
 

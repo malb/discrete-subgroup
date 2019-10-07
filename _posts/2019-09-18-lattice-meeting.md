@@ -13,7 +13,7 @@ This meeting — on Wednesday *18 September 2019* — is aimed at connecting the
 
 We present here a new family of trapdoor one-way functions that are Preimage Sampleable on Average (PSA) based on codes: the Wave-PSA family. Our trapdoor function is one-way under two computational assumptions: the hardness of generic decoding for high weights and the indistinguishability of generalized (U, U + V)-codes. Our proof follows the GPV strategy [GPV08]. By including rejection sampling, we ensure the proper distribution for the trapdoor inverse output. The domain sampling property of our family is ensured by using and proving a variant of the left-over hash lemma. We instantiate the new Wave-PSA family with ternary generalized (U, U + V)-codes to design a “hash-and-sign” signature scheme which achieves existential unforgeability under adaptive chosen message attacks (EUF-CMA) in the random oracle model. For 128 bits of classical security, signature sizes are in the order of 13 thousand bits, the public key size in the order of 3 megabytes, and the rejection rate is limited to one rejection every 10 to 12 signatures. 
 
-### <span> 13:00 - 14:30 | [Sebastian Stern](https://www.uni-ulm.de/nt/staff/senior-researchers/stern/)</span>: [Complex and Quaternion-Valued Lattices for Digital Transmission]() ###
+### <span> 13:00 - 14:30 | [Sebastian Stern](https://www.uni-ulm.de/nt/staff/senior-researchers/stern/)</span>: [Complex and Quaternion-Valued Lattices for Digital Transmission](/discrete-subgroup/slides/2019-09-18-stern.pdf) ###
 
 In digital communications, lattices can be utilized to design powerful coding and modulation
 schemes. Moreover, in recent years, lattice-reduction-aided equalization approaches have become very

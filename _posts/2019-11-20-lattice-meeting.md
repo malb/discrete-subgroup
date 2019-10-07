@@ -31,6 +31,7 @@ In this talk, we consider the problem of finding the period lattice L of a perio
 
 Paper abstract (https://eprint.iacr.org/2019/716.pdf): The Hidden Subgroup Problem (HSP) aims at capturing all problems that are susceptible to be solvable in quantum polynomial time following the blueprints of Shor’s celebrated algorithm. Successful solu- tions to this problems over various commutative groups allow to effi- ciently perform number-theoretic tasks such as factoring or finding dis- crete logarithms. The latest successful generalization (Eisentrager et al. STOC 2014) con- siders the problem of finding a full-rank lattice as the hidden subgroup of the continuous vector space R^m , even for large dimensions m. It un- locked new cryptanalytic algorithms (Biasse-Song SODA 2016, Cramer et al. EUROCRYPT 2016 and 2017), in particular to find mildly short vectors in ideal lattices. The cryptanalytic relevance of such a problem raises the question of a more refined and quantitative complexity analysis. In the light of the in- creasing physical difficulty of maintaining a large entanglement of qubits, the degree of concern may be different whether the above algorithm re- quires only linearly many qubits or a much larger polynomial amount of qubits. This is the question we start addressing with this work. We propose a detailed analysis of (a variation of) the aforementioned HSP algorithm, and conclude on its complexity as a function of all the relevant param- eters. Incidentally, our work fills gaps left by the extended abstract of Eisentrager et al.
 
+### <span> 18:00 - | Workshop Dinner </span> ###
 
 ## Venue ##
 
@@ -41,8 +42,6 @@ Tolansky 125
 Egham Hill  
 Egham  
 Surrey TW20 0EX
-
-Royal Holloway
 
 ## Registration ##
 

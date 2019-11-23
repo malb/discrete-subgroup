@@ -9,11 +9,11 @@ This meeting — on Wednesday *20 November 2019* — is aimed at connecting the 
 
 ## Programme ##
 
-### <span> 11:00 - 12:00 | [Ilia Iliashenko](https://www.esat.kuleuven.be/cosic/people/ilia-iliashenko/)</span>: [Sparse-secret Ring-LWE in FHE: Is it Really Needed?]() ###
+### <span> 11:00 - 12:00 | [Ilia Iliashenko](https://www.esat.kuleuven.be/cosic/people/ilia-iliashenko/)</span>: [Sparse-secret Ring-LWE in FHE: Is it Really Needed?](/discrete-subgroup/slides/2019-11-20-iliashenko.pdf) ###
 
 The most efficient fully homomorphic encryption schemes rely on a variant of the Ring-LWE problem with secret keys of a fixed and small Hamming weight. Such secrets allow faster FHE bootstrapping at the cost of weaker security guarantees. In this work we studied how how to perform bootstrapping without sparse secrets, thus avoiding this security loss in the HEAAN FHE scheme.
 
-### <span> 13:0:00 - 14:30 | [Jan-Pieter D'Anvers](https://www.esat.kuleuven.be/cosic/people/jan-pieter-danvers/)</span>: [How Dangerous are Decryption Failures in Lattice-based Encryption?]() ###
+### <span> 13:0:00 - 14:30 | [Jan-Pieter D'Anvers](https://www.esat.kuleuven.be/cosic/people/jan-pieter-danvers/)</span>: [How Dangerous are Decryption Failures in Lattice-based Encryption?](/discrete-subgroup/slides/2019-11-20-danvers.pdf) ###
 
 Many lattice-based encryption schemes are prone to a small decryption failure probability, where valid ciphertexts can not be decrypted. These failures leak information about the secret key and can thus be used to break the scheme. In this talk, we will examine how to optimize the search for decryption failures, and how to recover the secret using these failures.
 
@@ -25,7 +25,7 @@ We also show a different algorithm that works when the block size is quite large
     
 Together with some additional optimizations, these results yield significantly faster provably correct algorithms for $\delta$-approximate SVP for all approximation factors $n^{1/2+\eps} \leq \delta \leq n^{O(1)}$, which is the regime most relevant for cryptography. For the specific values of $\delta = n^{1-\eps}$ and $\delta = n^{2-\eps}$, we improve the exponent in the running  time by a factor of $2$ and a factor of $1.5$ respectively.
 
-### <span> 16:30 - 18:00 | [Koen de Boer](https://www.cwi.nl/people/koen-de-boer)</span>: [The Continuous Hidden Subgroup Problem]() ###
+### <span> 16:30 - 18:00 | [Koen de Boer](https://www.cwi.nl/people/koen-de-boer)</span>: [The Continuous Hidden Subgroup Problem](/discrete-subgroup/slides/2019-11-20-de-boer.pdf) ###
 
 In this talk, we consider the problem of finding the period lattice L of a periodic function f on R^m. This is a generalization of the hidden subgroup problem and is referred to as the continuous hidden subgroup problem. By means of the (discrete) quantum Fourier transform we obtain points in the dual of the period lattice L of f, though with errors due to the discreteness and finiteness of the quantum machine. In our work we show that these errors stay reasonably small, from which we can conclude that recovering the period lattice L can be done in quantum polynomial time. This talk focusses on (1) getting some intuition of the quantum algorithm and (2) giving some idea about how the errors behave in the case of a single dual lattice point.
 

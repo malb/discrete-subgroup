@@ -17,7 +17,7 @@ The most efficient fully homomorphic encryption schemes rely on a variant of the
 
 Many lattice-based encryption schemes are prone to a small decryption failure probability, where valid ciphertexts can not be decrypted. These failures leak information about the secret key and can thus be used to break the scheme. In this talk, we will examine how to optimize the search for decryption failures, and how to recover the secret using these failures.
 
-### <span> 15:00 - 16:00| [Jianwei Li]()</span>: [Slide Reduction, Revisited -- Filling the Gaps in SVP Approximation]() ###
+### <span> 15:00 - 16:00| [Jianwei Li]()</span>: [Slide Reduction, Revisited -- Filling the Gaps in SVP Approximation](/discrete-subgroup/slides/2019-11-20-li.pdf) ###
 
 We show how to generalize Gama and Nguyen's slide reduction algorithm [STOC '08] for solving the approximate Shortest Vector Problem over lattices (SVP) to allow for arbitrary block sizes, rather than just block sizes that divide the rank $n$ of the lattice. This leads to significantly better running times for most approximation factors. We accomplish this by showing that a weaker notion of reduction (HSVP reduction) suffices for the first block of a slide-reduced basis and using the DBKZ algorithm of Micciancio and Walter [Eurocrypt '16] to achieve this notion.
     

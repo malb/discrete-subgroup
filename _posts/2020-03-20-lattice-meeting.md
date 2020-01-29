@@ -3,9 +3,7 @@ title:  "Non-Lattice (!) Coding &amp; Crypto Meeting"
 redirect_from: /2020/03/20/
 ---
 
-Lattice-based approaches are emerging as a common theme in modern cryptography and coding theory. In communications, they are useful mathematical tools to construct powerful error-correction codes achieving the capacity of wireless channels. In cryptography, they are used to building lattice-based schemes with provable security, better asymptotic efficiency, resilience against quantum attacks and new functionalities such as fully homomorphic encryption.
-
-This meeting — on Wednesday *20 March 2020* — is aimed at connecting the two communities with a common interest in lattices. It will consist of several talks on related topics, with a format aimed at encouraging interaction.
+This meeting -- on Friday 20 March 2020 -- is aimed at non-lattice approaches to post-quantum cryptography. It will consist of several talks on related topics, with a format aimed at encouraging interaction.
 
 ## Programme ##
 

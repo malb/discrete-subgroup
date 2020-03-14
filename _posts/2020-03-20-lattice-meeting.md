@@ -3,6 +3,8 @@ title:  "Non-Lattice (!) Coding &amp; Crypto Meeting"
 redirect_from: /2020/03/20/
 ---
 
+**This meeting has been postponed. We will announce a new date.**
+
 This meeting -- on Friday 20 March 2020 -- is aimed at non-lattice approaches to post-quantum cryptography. It will consist of several talks on related topics, with a format aimed at encouraging interaction.
 
 ## Programme ##

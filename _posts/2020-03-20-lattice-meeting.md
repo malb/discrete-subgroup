@@ -1,5 +1,5 @@
 ---
-title:  "Non-Lattice (!) Coding &amp; Crypto Meeting"
+title:  "~~Non-Lattice (!) Coding &amp; Crypto Meeting~~"
 redirect_from: /2020/03/20/
 ---
 
@@ -11,7 +11,7 @@ This meeting -- on Friday 20 March 2020 -- is aimed at non-lattice approaches to
 
 ### <span> 11:00 - 12:00 | [Cen Jung Tjhai]()</span>: [Decoding of Goppa codes]() ###
 
-### <span> 13:0:00 - 14:30 | [Maximilien Gadouleau]()</span>: [Introduction to rank metric codes]() ###
+### <span> 13:00 - 14:30 | [Maximilien Gadouleau]()</span>: [Introduction to rank metric codes]() ###
 
 Rank metric codes are codes on matrices, where the distance is the so-called rank metric (the rank of the difference between two matrices). These codes  have notably been proposed in several post-quantum, code-based, cryptosystems. In this talk, we will review some of the main properties and results on those codes, including: how they can be viewed as codes on matrices or on vectors, the class of optimal Gabidulin codes and maximum rank-distance (MRD) codes in general, their proposed applications to data storage and network coding, and the use of skew-polynomial rings. We will also indicate which areas of that theory are still under development.
 

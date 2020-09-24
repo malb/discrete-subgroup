@@ -9,6 +9,8 @@ This meeting — on Friday, 11 December 2020 — is aimed at connecting the two 
 
 ## Programme ##
 
+### <span> 12:30 - 13:30 | [Frederique Oggier](http://www1.spms.ntu.edu.sg/~frederique/)</span>: [A Quadratic Form Approach to Construction A of Lattices over Cyclic Algebras]() ###
+
 ### <span> 14:00 - 15:00 | [Algebraically Structured LWE, Revisited]()</span>: [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/) ###
 
 In recent years, there has been a proliferation of algebraically structured Learning With Errors (LWE) variants, including Ring-LWE, Module-LWE, Polynomial-LWE, Order-LWE, and Middle-Product LWE, and a web of reductions to support their hardness, both among these problems themselves and from related worst-case problems on structured lattices. However, these reductions are often difficult to interpret and use, due to the complexity of their parameters and analysis, and most especially their (frequently large) blowup and distortion of the error distributions.
@@ -17,7 +19,6 @@ In this paper we unify and simplify this line of work. First, we give a general 
 
 [paper](https://eprint.iacr.org/2019/878)
 
-### <span>  -  | []()</span>: []() ###
 
 ## Venue ##
 

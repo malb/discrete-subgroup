@@ -22,7 +22,7 @@ In this paper we unify and simplify this line of work. First, we give a general 
 
 ## Venue ##
 
-[]()
+[Zoom](https://us02web.zoom.us/j/82170998756?pwd=bUZsaFh5amQ1TW5vbk4yelA2dG01QT09)
 
 ## Registration ##
 

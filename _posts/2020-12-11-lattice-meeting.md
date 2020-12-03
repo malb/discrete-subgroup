@@ -11,6 +11,8 @@ This meeting — on Friday, 11 December 2020 — is aimed at connecting the two 
 
 ### <span> 12:30 - 13:30 | [Frederique Oggier](http://www1.spms.ntu.edu.sg/~frederique/)</span>: [A Quadratic Form Approach to Construction A of Lattices over Cyclic Algebras]() ###
 
+Construction A refers to a well-studied method to construct lattices from linear codes. We revisit Construction A adopting the view point of quadratic form, by endowing quotients of some ideals in both number fields and cyclic algebras with a suitable trace form. We then obtain lattices that are built from polynomial and skew-polynomial codes respectively, and that have a multiplicative structure. We further give criteria for unimodularity.
+
 ### <span> 14:00 - 15:00 | [Chris Peikert](https://web.eecs.umich.edu/~cpeikert/)</span>: [Algebraically Structured LWE, Revisited]() ###
 
 In recent years, there has been a proliferation of algebraically structured Learning With Errors (LWE) variants, including Ring-LWE, Module-LWE, Polynomial-LWE, Order-LWE, and Middle-Product LWE, and a web of reductions to support their hardness, both among these problems themselves and from related worst-case problems on structured lattices. However, these reductions are often difficult to interpret and use, due to the complexity of their parameters and analysis, and most especially their (frequently large) blowup and distortion of the error distributions.
